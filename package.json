@@ -1,0 +1,64 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@codemirror/legacy-modes": "^6.3.3",
+    "@emotion/react": "^11.11.3",
+    "@ffmpeg/core": "^0.12.6",
+    "@heroicons/react": "^2.1.1",
+    "@material-tailwind/react": "^2.1.9",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@uiw/codemirror-theme-dracula": "^4.21.21",
+    "@uiw/react-codemirror": "^4.21.21",
+    "apexcharts": "^3.45.2",
+    "codemirror": "^6.0.1",
+    "crypto-js": "^4.2.0",
+    "draft-js": "^0.11.7",
+    "draft-js-export-html": "^1.4.1",
+    "firebase": "^10.8.0",
+    "lottie-react": "^2.4.0",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.1",
+    "react-doc-viewer": "^0.1.5",
+    "react-dom": "^18.2.0",
+    "react-pdf": "^7.7.0",
+    "react-router-dom": "^6.22.0",
+    "react-rte": "^0.16.5",
+    "react-scripts": "5.0.1",
+    "react-scroll": "^1.9.0",
+    "react-select": "^5.8.0",
+    "react-spinners": "^0.13.8",
+    "react-toastify": "^10.0.4",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}

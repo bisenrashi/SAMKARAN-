@@ -1,0 +1,1600 @@
+[
+    [
+        "DevOps Lifecycle",
+        "DevOps is a practice that enables a single team to handle the whole application lifecycle, including development, testing, release, deployment, operation, display, and planning. It is a mix of the terms \u201cDev\u201d (for development) and \u201cOps\u201d (for operations). We can speed up the delivery of applications and services by a business with the aid of DevOps. Amazon, Netflix, and other businesses have all effectively embraced DevOps to improve their customer experience.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162703/DevOps-lifecycle.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162747/Code-developing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084631/DevOps-Flow-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153805/continuous-testing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153622/continuous-delivery-1.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153703/continuous-delivery-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084727/DevOps-Flow-1.webp"
+        ],
+        "https://www.geeksforgeeks.org/lifecycle-of-devops/?ref=shm"
+    ],
+    [
+        "Complete DevOps Roadmap \u2013 Beginner to Advanced",
+        "DevOps is considered a set of practices that combines the abilities of Software Development i.e Dev and IT Operations i.e Ops together, which results in delivering top-notch quality software fastly and more efficiently. Its focus is to encourage communication, collaboration, and integration between the software development team and IT operations to maintain the software development lifecycle.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230416201559/DevOps-Roadmap.webp"
+        ],
+        "https://www.geeksforgeeks.org/devops-roadmap/?ref=shm"
+    ],
+    [
+        "Docker Tutorial",
+        "Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service. Docker was released in 2013. It is open-source and available for different platforms like Windows, macOS, and Linux. Docker is quickly shipping, testing, and deploying code. So that it reduces your delay between writing code and running it in production. You can create self-contained environments known as containers. That can run consistently on different platforms.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Docker-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/docker-tutorial/?ref=shm"
+    ],
+    [
+        "Kubernetes Tutorial",
+        "Kubernetes is a tool that helps us to run and manage applications in containers. It was developed by Google Lab in 2014, and it is also known as k8s. It is an open-source container orchestration platform that automates the deployment, management, and scaling of container-based applications in different kinds of environments like physical, virtual, and cloud-native computing foundations. Containers are isolated from each other so that multiple containers can run on the same machine without interrupting anyone else. It allows us to deploy and manage container-based applications across a Kubernetes cluster of machines.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152907/Kubernetes-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=shm"
+    ],
+    [
+        "Amazon Web Services (AWS) Tutorial",
+        "This AWS tutorial is designed for beginners and professionals to learn AWS\u2019s basic and advanced concepts. Learn about the various topics of AWS such as introduction, history of AWS, global infrastructure, features of AWS, IAM, storage services, database services, application Services, etc., and other AWS products such as S3, EC2, Lambda, and more. By the end of this tutorial, readers will have a basic understanding of what AWS is and how it can be used to support their computing needs.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221221151711/AWS-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/aws-tutorial/?ref=shm"
+    ],
+    [
+        "Microsoft Azure Tutorial",
+        "Designed by Microsoft in 2010, Microsoft Azure is one of the widely used cloud computing platforms. Azure provides a wide variety of services such as cloud storage, compute services, network services, cognitive services, databases, analytics, and IoT. It makes building, deploying, and managing applications very easy. All the Microsoft Azure fundamentals are also described for a better understanding of readers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Azure-tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/microsoft-azure/?ref=shm"
+    ],
+    [
+        "Google Cloud Platform Tutorial",
+        "Google Cloud Platform is a set of cloud computing services provided by Google that allows you to store, manage, and analyze data. It is also used for developing, deploying, and scaling applications on Google\u2019s environment. It was announced as the leading cloud platform in Gartner\u2019s IaaS Magic Quadrant in 2018. Likewise, it provides tools for developers to build and deploy applications in a secure and reliable manner, with access to advanced security features. Services of Google Cloud Platform can be accessed by developers, cloud administrators, and other enterprise IT professionals through the public internet or through a dedicated network connection.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152905/GCP-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=shm"
+    ],
+    [
+        "Docker Cheat Sheet : Complete Guide (2024)",
+        "Docker is a very popular tool introduced to make it easier for developers to create, deploy, and run applications using containers. A container is a utility provided by Docker to package and run an application in a loosely isolated environment. Containers are lightweight and contain everything needed to run an application, such as libraries and other dependencies packed by the developer during the application\u2019s packaging process. This assures developers that their application can be run on any other machine. Here, we\u2019re going to provide you with an ultimate Docker Cheat Sheet that will help you to learn Docker Commands easily.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230613115937/Docker-Cheatsheet.webp"
+        ],
+        "https://www.geeksforgeeks.org/docker-cheat-sheet/?ref=shm"
+    ],
+    [
+        "Kubectl Command Cheat Sheet",
+        "If you are inspired to become a DevOps (Devlopment+Operations)\u2019s Engineer and start your journey as a beginner, or if you\u2019re a professional looking to refresh your DevOps knowledge or transition into DevOps, or even if you\u2019re a learning geek seeking to expand your knowledge base, then you landed to the right place. Nowadays, Kubernetes (sometimes shortened to K8s with the 8 standing for the number of letters between the \u201cK\u201d and the \u201cs\u201d ) is a trending technology in the field of DevOps, and having a good understanding of it is crucial.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230615163518/Kubernetes-Cheatsheet-(3).webp"
+        ],
+        "https://www.geeksforgeeks.org/kubectl-cheatsheet/?ref=shm"
+    ],
+    [
+        "AWS Interview Questions",
+        "AWS, which stands for Amazon Web Services, is a cloud service provider that helps in providing the services of various fields of domains through the internet with the principle of \u201cPay as you use\u201d. AWS was started in 2006 with 3 types of services such as storage, computing, and messaging. After, it enhanced its network by providing all the required services based on the market trends.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20240117114222/Banner-for-AWS-INTERVIEW-QUESTIONS.png"
+        ],
+        "https://www.geeksforgeeks.org/aws-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50+ Docker Interview Questions & Answers (2024)",
+        "Dockers is a software providing platform as a service ( PaaS ) helping to host the container through docker-engine behind the background. It isolates the containers providing a separate network namespace. It bundles all the dependencies with required software, libraries, and configuration files with bootable software provided as a docker image. Docker launches the containers with the help of these images. It allows containers to communicate with each other in well-defined channels.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230109130229/Docker-vs-VM.png"
+        ],
+        "https://www.geeksforgeeks.org/docker-interview-questions/?ref=shm"
+    ],
+    [
+        "Ansible Interview Questions",
+        "Ansible is a configuration management tool and an open-source product from Redhat company. Before moving into the details of Ansible, let\u2019s explore the evolution of the Software Development Life Cycle (SDLC). In the past, IT and Linux administrators manually updated software with the latest versions and configured updates, causing significant delays in bringing new ideas or features to the public. This delay affected server performance and made business growth difficult. The demand for an agile nature led to the rapid rise of the DevOps culture, aiming to accelerate the time-to-market for new services or features and stay ahead of competitors.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231228142551/Ansible-Architecture.png"
+        ],
+        "https://www.geeksforgeeks.org/ansible-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50 Jenkins Interview Questions & Answer",
+        "Jenkins is a Java-based open-source automation platform with plugins designed for continuous integration. It is used to continually create and test software projects. If you are even slightly aware of Jenkins, then you must know that continuous integration is one of the most important parts of DevOps and the jobs in this field are high in demand.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230929215914/Screenshot-from-2023-09-29-21-57-46.png"
+        ],
+        "https://www.geeksforgeeks.org/jenkins-interview-questions/?ref=shm"
+    ],
+    [
+        "DevOps Lifecycle",
+        "DevOps is a practice that enables a single team to handle the whole application lifecycle, including development, testing, release, deployment, operation, display, and planning. It is a mix of the terms \u201cDev\u201d (for development) and \u201cOps\u201d (for operations). We can speed up the delivery of applications and services by a business with the aid of DevOps. Amazon, Netflix, and other businesses have all effectively embraced DevOps to improve their customer experience.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162703/DevOps-lifecycle.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162747/Code-developing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084631/DevOps-Flow-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153805/continuous-testing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153622/continuous-delivery-1.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153703/continuous-delivery-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084727/DevOps-Flow-1.webp"
+        ],
+        "https://www.geeksforgeeks.org/lifecycle-of-devops/?ref=shm"
+    ],
+    [
+        "Complete DevOps Roadmap \u2013 Beginner to Advanced",
+        "DevOps is considered a set of practices that combines the abilities of Software Development i.e Dev and IT Operations i.e Ops together, which results in delivering top-notch quality software fastly and more efficiently. Its focus is to encourage communication, collaboration, and integration between the software development team and IT operations to maintain the software development lifecycle.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230416201559/DevOps-Roadmap.webp"
+        ],
+        "https://www.geeksforgeeks.org/devops-roadmap/?ref=shm"
+    ],
+    [
+        "Docker Tutorial",
+        "Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service. Docker was released in 2013. It is open-source and available for different platforms like Windows, macOS, and Linux. Docker is quickly shipping, testing, and deploying code. So that it reduces your delay between writing code and running it in production. You can create self-contained environments known as containers. That can run consistently on different platforms.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Docker-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/docker-tutorial/?ref=shm"
+    ],
+    [
+        "Kubernetes Tutorial",
+        "Kubernetes is a tool that helps us to run and manage applications in containers. It was developed by Google Lab in 2014, and it is also known as k8s. It is an open-source container orchestration platform that automates the deployment, management, and scaling of container-based applications in different kinds of environments like physical, virtual, and cloud-native computing foundations. Containers are isolated from each other so that multiple containers can run on the same machine without interrupting anyone else. It allows us to deploy and manage container-based applications across a Kubernetes cluster of machines.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152907/Kubernetes-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=shm"
+    ],
+    [
+        "Amazon Web Services (AWS) Tutorial",
+        "This AWS tutorial is designed for beginners and professionals to learn AWS\u2019s basic and advanced concepts. Learn about the various topics of AWS such as introduction, history of AWS, global infrastructure, features of AWS, IAM, storage services, database services, application Services, etc., and other AWS products such as S3, EC2, Lambda, and more. By the end of this tutorial, readers will have a basic understanding of what AWS is and how it can be used to support their computing needs.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221221151711/AWS-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/aws-tutorial/?ref=shm"
+    ],
+    [
+        "Microsoft Azure Tutorial",
+        "Designed by Microsoft in 2010, Microsoft Azure is one of the widely used cloud computing platforms. Azure provides a wide variety of services such as cloud storage, compute services, network services, cognitive services, databases, analytics, and IoT. It makes building, deploying, and managing applications very easy. All the Microsoft Azure fundamentals are also described for a better understanding of readers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Azure-tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/microsoft-azure/?ref=shm"
+    ],
+    [
+        "Google Cloud Platform Tutorial",
+        "Google Cloud Platform is a set of cloud computing services provided by Google that allows you to store, manage, and analyze data. It is also used for developing, deploying, and scaling applications on Google\u2019s environment. It was announced as the leading cloud platform in Gartner\u2019s IaaS Magic Quadrant in 2018. Likewise, it provides tools for developers to build and deploy applications in a secure and reliable manner, with access to advanced security features. Services of Google Cloud Platform can be accessed by developers, cloud administrators, and other enterprise IT professionals through the public internet or through a dedicated network connection.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152905/GCP-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=shm"
+    ],
+    [
+        "Docker Cheat Sheet : Complete Guide (2024)",
+        "Docker is a very popular tool introduced to make it easier for developers to create, deploy, and run applications using containers. A container is a utility provided by Docker to package and run an application in a loosely isolated environment. Containers are lightweight and contain everything needed to run an application, such as libraries and other dependencies packed by the developer during the application\u2019s packaging process. This assures developers that their application can be run on any other machine. Here, we\u2019re going to provide you with an ultimate Docker Cheat Sheet that will help you to learn Docker Commands easily.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230613115937/Docker-Cheatsheet.webp"
+        ],
+        "https://www.geeksforgeeks.org/docker-cheat-sheet/?ref=shm"
+    ],
+    [
+        "Kubectl Command Cheat Sheet",
+        "If you are inspired to become a DevOps (Devlopment+Operations)\u2019s Engineer and start your journey as a beginner, or if you\u2019re a professional looking to refresh your DevOps knowledge or transition into DevOps, or even if you\u2019re a learning geek seeking to expand your knowledge base, then you landed to the right place. Nowadays, Kubernetes (sometimes shortened to K8s with the 8 standing for the number of letters between the \u201cK\u201d and the \u201cs\u201d ) is a trending technology in the field of DevOps, and having a good understanding of it is crucial.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230615163518/Kubernetes-Cheatsheet-(3).webp"
+        ],
+        "https://www.geeksforgeeks.org/kubectl-cheatsheet/?ref=shm"
+    ],
+    [
+        "AWS Interview Questions",
+        "AWS, which stands for Amazon Web Services, is a cloud service provider that helps in providing the services of various fields of domains through the internet with the principle of \u201cPay as you use\u201d. AWS was started in 2006 with 3 types of services such as storage, computing, and messaging. After, it enhanced its network by providing all the required services based on the market trends.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20240117114222/Banner-for-AWS-INTERVIEW-QUESTIONS.png"
+        ],
+        "https://www.geeksforgeeks.org/aws-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50+ Docker Interview Questions & Answers (2024)",
+        "Dockers is a software providing platform as a service ( PaaS ) helping to host the container through docker-engine behind the background. It isolates the containers providing a separate network namespace. It bundles all the dependencies with required software, libraries, and configuration files with bootable software provided as a docker image. Docker launches the containers with the help of these images. It allows containers to communicate with each other in well-defined channels.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230109130229/Docker-vs-VM.png"
+        ],
+        "https://www.geeksforgeeks.org/docker-interview-questions/?ref=shm"
+    ],
+    [
+        "Ansible Interview Questions",
+        "Ansible is a configuration management tool and an open-source product from Redhat company. Before moving into the details of Ansible, let\u2019s explore the evolution of the Software Development Life Cycle (SDLC). In the past, IT and Linux administrators manually updated software with the latest versions and configured updates, causing significant delays in bringing new ideas or features to the public. This delay affected server performance and made business growth difficult. The demand for an agile nature led to the rapid rise of the DevOps culture, aiming to accelerate the time-to-market for new services or features and stay ahead of competitors.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231228142551/Ansible-Architecture.png"
+        ],
+        "https://www.geeksforgeeks.org/ansible-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50 Jenkins Interview Questions & Answer",
+        "Jenkins is a Java-based open-source automation platform with plugins designed for continuous integration. It is used to continually create and test software projects. If you are even slightly aware of Jenkins, then you must know that continuous integration is one of the most important parts of DevOps and the jobs in this field are high in demand.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230929215914/Screenshot-from-2023-09-29-21-57-46.png"
+        ],
+        "https://www.geeksforgeeks.org/jenkins-interview-questions/?ref=shm"
+    ],
+    [
+        "DevOps Lifecycle",
+        "DevOps is a practice that enables a single team to handle the whole application lifecycle, including development, testing, release, deployment, operation, display, and planning. It is a mix of the terms \u201cDev\u201d (for development) and \u201cOps\u201d (for operations). We can speed up the delivery of applications and services by a business with the aid of DevOps. Amazon, Netflix, and other businesses have all effectively embraced DevOps to improve their customer experience.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162703/DevOps-lifecycle.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162747/Code-developing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084631/DevOps-Flow-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153805/continuous-testing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153622/continuous-delivery-1.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153703/continuous-delivery-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084727/DevOps-Flow-1.webp"
+        ],
+        "https://www.geeksforgeeks.org/lifecycle-of-devops/?ref=shm"
+    ],
+    [
+        "Complete DevOps Roadmap \u2013 Beginner to Advanced",
+        "DevOps is considered a set of practices that combines the abilities of Software Development i.e Dev and IT Operations i.e Ops together, which results in delivering top-notch quality software fastly and more efficiently. Its focus is to encourage communication, collaboration, and integration between the software development team and IT operations to maintain the software development lifecycle.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230416201559/DevOps-Roadmap.webp"
+        ],
+        "https://www.geeksforgeeks.org/devops-roadmap/?ref=shm"
+    ],
+    [
+        "Docker Tutorial",
+        "Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service. Docker was released in 2013. It is open-source and available for different platforms like Windows, macOS, and Linux. Docker is quickly shipping, testing, and deploying code. So that it reduces your delay between writing code and running it in production. You can create self-contained environments known as containers. That can run consistently on different platforms.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Docker-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/docker-tutorial/?ref=shm"
+    ],
+    [
+        "Kubernetes Tutorial",
+        "Kubernetes is a tool that helps us to run and manage applications in containers. It was developed by Google Lab in 2014, and it is also known as k8s. It is an open-source container orchestration platform that automates the deployment, management, and scaling of container-based applications in different kinds of environments like physical, virtual, and cloud-native computing foundations. Containers are isolated from each other so that multiple containers can run on the same machine without interrupting anyone else. It allows us to deploy and manage container-based applications across a Kubernetes cluster of machines.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152907/Kubernetes-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=shm"
+    ],
+    [
+        "Amazon Web Services (AWS) Tutorial",
+        "This AWS tutorial is designed for beginners and professionals to learn AWS\u2019s basic and advanced concepts. Learn about the various topics of AWS such as introduction, history of AWS, global infrastructure, features of AWS, IAM, storage services, database services, application Services, etc., and other AWS products such as S3, EC2, Lambda, and more. By the end of this tutorial, readers will have a basic understanding of what AWS is and how it can be used to support their computing needs.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221221151711/AWS-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/aws-tutorial/?ref=shm"
+    ],
+    [
+        "Microsoft Azure Tutorial",
+        "Designed by Microsoft in 2010, Microsoft Azure is one of the widely used cloud computing platforms. Azure provides a wide variety of services such as cloud storage, compute services, network services, cognitive services, databases, analytics, and IoT. It makes building, deploying, and managing applications very easy. All the Microsoft Azure fundamentals are also described for a better understanding of readers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Azure-tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/microsoft-azure/?ref=shm"
+    ],
+    [
+        "Google Cloud Platform Tutorial",
+        "Google Cloud Platform is a set of cloud computing services provided by Google that allows you to store, manage, and analyze data. It is also used for developing, deploying, and scaling applications on Google\u2019s environment. It was announced as the leading cloud platform in Gartner\u2019s IaaS Magic Quadrant in 2018. Likewise, it provides tools for developers to build and deploy applications in a secure and reliable manner, with access to advanced security features. Services of Google Cloud Platform can be accessed by developers, cloud administrators, and other enterprise IT professionals through the public internet or through a dedicated network connection.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152905/GCP-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=shm"
+    ],
+    [
+        "Docker Cheat Sheet : Complete Guide (2024)",
+        "Docker is a very popular tool introduced to make it easier for developers to create, deploy, and run applications using containers. A container is a utility provided by Docker to package and run an application in a loosely isolated environment. Containers are lightweight and contain everything needed to run an application, such as libraries and other dependencies packed by the developer during the application\u2019s packaging process. This assures developers that their application can be run on any other machine. Here, we\u2019re going to provide you with an ultimate Docker Cheat Sheet that will help you to learn Docker Commands easily.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230613115937/Docker-Cheatsheet.webp"
+        ],
+        "https://www.geeksforgeeks.org/docker-cheat-sheet/?ref=shm"
+    ],
+    [
+        "Kubectl Command Cheat Sheet",
+        "If you are inspired to become a DevOps (Devlopment+Operations)\u2019s Engineer and start your journey as a beginner, or if you\u2019re a professional looking to refresh your DevOps knowledge or transition into DevOps, or even if you\u2019re a learning geek seeking to expand your knowledge base, then you landed to the right place. Nowadays, Kubernetes (sometimes shortened to K8s with the 8 standing for the number of letters between the \u201cK\u201d and the \u201cs\u201d ) is a trending technology in the field of DevOps, and having a good understanding of it is crucial.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230615163518/Kubernetes-Cheatsheet-(3).webp"
+        ],
+        "https://www.geeksforgeeks.org/kubectl-cheatsheet/?ref=shm"
+    ],
+    [
+        "AWS Interview Questions",
+        "AWS, which stands for Amazon Web Services, is a cloud service provider that helps in providing the services of various fields of domains through the internet with the principle of \u201cPay as you use\u201d. AWS was started in 2006 with 3 types of services such as storage, computing, and messaging. After, it enhanced its network by providing all the required services based on the market trends.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20240117114222/Banner-for-AWS-INTERVIEW-QUESTIONS.png"
+        ],
+        "https://www.geeksforgeeks.org/aws-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50+ Docker Interview Questions & Answers (2024)",
+        "Dockers is a software providing platform as a service ( PaaS ) helping to host the container through docker-engine behind the background. It isolates the containers providing a separate network namespace. It bundles all the dependencies with required software, libraries, and configuration files with bootable software provided as a docker image. Docker launches the containers with the help of these images. It allows containers to communicate with each other in well-defined channels.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230109130229/Docker-vs-VM.png"
+        ],
+        "https://www.geeksforgeeks.org/docker-interview-questions/?ref=shm"
+    ],
+    [
+        "Ansible Interview Questions",
+        "Ansible is a configuration management tool and an open-source product from Redhat company. Before moving into the details of Ansible, let\u2019s explore the evolution of the Software Development Life Cycle (SDLC). In the past, IT and Linux administrators manually updated software with the latest versions and configured updates, causing significant delays in bringing new ideas or features to the public. This delay affected server performance and made business growth difficult. The demand for an agile nature led to the rapid rise of the DevOps culture, aiming to accelerate the time-to-market for new services or features and stay ahead of competitors.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231228142551/Ansible-Architecture.png"
+        ],
+        "https://www.geeksforgeeks.org/ansible-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50 Jenkins Interview Questions & Answer",
+        "Jenkins is a Java-based open-source automation platform with plugins designed for continuous integration. It is used to continually create and test software projects. If you are even slightly aware of Jenkins, then you must know that continuous integration is one of the most important parts of DevOps and the jobs in this field are high in demand.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230929215914/Screenshot-from-2023-09-29-21-57-46.png"
+        ],
+        "https://www.geeksforgeeks.org/jenkins-interview-questions/?ref=shm"
+    ],
+    [
+        "DevOps Lifecycle",
+        "DevOps is a practice that enables a single team to handle the whole application lifecycle, including development, testing, release, deployment, operation, display, and planning. It is a mix of the terms \u201cDev\u201d (for development) and \u201cOps\u201d (for operations). We can speed up the delivery of applications and services by a business with the aid of DevOps. Amazon, Netflix, and other businesses have all effectively embraced DevOps to improve their customer experience.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162703/DevOps-lifecycle.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162747/Code-developing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084631/DevOps-Flow-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153805/continuous-testing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153622/continuous-delivery-1.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153703/continuous-delivery-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084727/DevOps-Flow-1.webp"
+        ],
+        "https://www.geeksforgeeks.org/lifecycle-of-devops/?ref=shm"
+    ],
+    [
+        "Complete DevOps Roadmap \u2013 Beginner to Advanced",
+        "DevOps is considered a set of practices that combines the abilities of Software Development i.e Dev and IT Operations i.e Ops together, which results in delivering top-notch quality software fastly and more efficiently. Its focus is to encourage communication, collaboration, and integration between the software development team and IT operations to maintain the software development lifecycle.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230416201559/DevOps-Roadmap.webp"
+        ],
+        "https://www.geeksforgeeks.org/devops-roadmap/?ref=shm"
+    ],
+    [
+        "Docker Tutorial",
+        "Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service. Docker was released in 2013. It is open-source and available for different platforms like Windows, macOS, and Linux. Docker is quickly shipping, testing, and deploying code. So that it reduces your delay between writing code and running it in production. You can create self-contained environments known as containers. That can run consistently on different platforms.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Docker-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/docker-tutorial/?ref=shm"
+    ],
+    [
+        "Kubernetes Tutorial",
+        "Kubernetes is a tool that helps us to run and manage applications in containers. It was developed by Google Lab in 2014, and it is also known as k8s. It is an open-source container orchestration platform that automates the deployment, management, and scaling of container-based applications in different kinds of environments like physical, virtual, and cloud-native computing foundations. Containers are isolated from each other so that multiple containers can run on the same machine without interrupting anyone else. It allows us to deploy and manage container-based applications across a Kubernetes cluster of machines.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152907/Kubernetes-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=shm"
+    ],
+    [
+        "Amazon Web Services (AWS) Tutorial",
+        "This AWS tutorial is designed for beginners and professionals to learn AWS\u2019s basic and advanced concepts. Learn about the various topics of AWS such as introduction, history of AWS, global infrastructure, features of AWS, IAM, storage services, database services, application Services, etc., and other AWS products such as S3, EC2, Lambda, and more. By the end of this tutorial, readers will have a basic understanding of what AWS is and how it can be used to support their computing needs.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221221151711/AWS-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/aws-tutorial/?ref=shm"
+    ],
+    [
+        "Microsoft Azure Tutorial",
+        "Designed by Microsoft in 2010, Microsoft Azure is one of the widely used cloud computing platforms. Azure provides a wide variety of services such as cloud storage, compute services, network services, cognitive services, databases, analytics, and IoT. It makes building, deploying, and managing applications very easy. All the Microsoft Azure fundamentals are also described for a better understanding of readers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Azure-tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/microsoft-azure/?ref=shm"
+    ],
+    [
+        "Google Cloud Platform Tutorial",
+        "Google Cloud Platform is a set of cloud computing services provided by Google that allows you to store, manage, and analyze data. It is also used for developing, deploying, and scaling applications on Google\u2019s environment. It was announced as the leading cloud platform in Gartner\u2019s IaaS Magic Quadrant in 2018. Likewise, it provides tools for developers to build and deploy applications in a secure and reliable manner, with access to advanced security features. Services of Google Cloud Platform can be accessed by developers, cloud administrators, and other enterprise IT professionals through the public internet or through a dedicated network connection.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152905/GCP-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=shm"
+    ],
+    [
+        "Docker Cheat Sheet : Complete Guide (2024)",
+        "Docker is a very popular tool introduced to make it easier for developers to create, deploy, and run applications using containers. A container is a utility provided by Docker to package and run an application in a loosely isolated environment. Containers are lightweight and contain everything needed to run an application, such as libraries and other dependencies packed by the developer during the application\u2019s packaging process. This assures developers that their application can be run on any other machine. Here, we\u2019re going to provide you with an ultimate Docker Cheat Sheet that will help you to learn Docker Commands easily.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230613115937/Docker-Cheatsheet.webp"
+        ],
+        "https://www.geeksforgeeks.org/docker-cheat-sheet/?ref=shm"
+    ],
+    [
+        "Kubectl Command Cheat Sheet",
+        "If you are inspired to become a DevOps (Devlopment+Operations)\u2019s Engineer and start your journey as a beginner, or if you\u2019re a professional looking to refresh your DevOps knowledge or transition into DevOps, or even if you\u2019re a learning geek seeking to expand your knowledge base, then you landed to the right place. Nowadays, Kubernetes (sometimes shortened to K8s with the 8 standing for the number of letters between the \u201cK\u201d and the \u201cs\u201d ) is a trending technology in the field of DevOps, and having a good understanding of it is crucial.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230615163518/Kubernetes-Cheatsheet-(3).webp"
+        ],
+        "https://www.geeksforgeeks.org/kubectl-cheatsheet/?ref=shm"
+    ],
+    [
+        "AWS Interview Questions",
+        "AWS, which stands for Amazon Web Services, is a cloud service provider that helps in providing the services of various fields of domains through the internet with the principle of \u201cPay as you use\u201d. AWS was started in 2006 with 3 types of services such as storage, computing, and messaging. After, it enhanced its network by providing all the required services based on the market trends.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20240117114222/Banner-for-AWS-INTERVIEW-QUESTIONS.png"
+        ],
+        "https://www.geeksforgeeks.org/aws-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50+ Docker Interview Questions & Answers (2024)",
+        "Dockers is a software providing platform as a service ( PaaS ) helping to host the container through docker-engine behind the background. It isolates the containers providing a separate network namespace. It bundles all the dependencies with required software, libraries, and configuration files with bootable software provided as a docker image. Docker launches the containers with the help of these images. It allows containers to communicate with each other in well-defined channels.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230109130229/Docker-vs-VM.png"
+        ],
+        "https://www.geeksforgeeks.org/docker-interview-questions/?ref=shm"
+    ],
+    [
+        "Ansible Interview Questions",
+        "Ansible is a configuration management tool and an open-source product from Redhat company. Before moving into the details of Ansible, let\u2019s explore the evolution of the Software Development Life Cycle (SDLC). In the past, IT and Linux administrators manually updated software with the latest versions and configured updates, causing significant delays in bringing new ideas or features to the public. This delay affected server performance and made business growth difficult. The demand for an agile nature led to the rapid rise of the DevOps culture, aiming to accelerate the time-to-market for new services or features and stay ahead of competitors.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231228142551/Ansible-Architecture.png"
+        ],
+        "https://www.geeksforgeeks.org/ansible-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50 Jenkins Interview Questions & Answer",
+        "Jenkins is a Java-based open-source automation platform with plugins designed for continuous integration. It is used to continually create and test software projects. If you are even slightly aware of Jenkins, then you must know that continuous integration is one of the most important parts of DevOps and the jobs in this field are high in demand.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230929215914/Screenshot-from-2023-09-29-21-57-46.png"
+        ],
+        "https://www.geeksforgeeks.org/jenkins-interview-questions/?ref=shm"
+    ],
+    [
+        "DevOps Lifecycle",
+        "DevOps is a practice that enables a single team to handle the whole application lifecycle, including development, testing, release, deployment, operation, display, and planning. It is a mix of the terms \u201cDev\u201d (for development) and \u201cOps\u201d (for operations). We can speed up the delivery of applications and services by a business with the aid of DevOps. Amazon, Netflix, and other businesses have all effectively embraced DevOps to improve their customer experience.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162703/DevOps-lifecycle.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162747/Code-developing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084631/DevOps-Flow-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153805/continuous-testing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153622/continuous-delivery-1.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153703/continuous-delivery-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084727/DevOps-Flow-1.webp"
+        ],
+        "https://www.geeksforgeeks.org/lifecycle-of-devops/?ref=shm"
+    ],
+    [
+        "Complete DevOps Roadmap \u2013 Beginner to Advanced",
+        "DevOps is considered a set of practices that combines the abilities of Software Development i.e Dev and IT Operations i.e Ops together, which results in delivering top-notch quality software fastly and more efficiently. Its focus is to encourage communication, collaboration, and integration between the software development team and IT operations to maintain the software development lifecycle.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230416201559/DevOps-Roadmap.webp"
+        ],
+        "https://www.geeksforgeeks.org/devops-roadmap/?ref=shm"
+    ],
+    [
+        "Docker Tutorial",
+        "Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service. Docker was released in 2013. It is open-source and available for different platforms like Windows, macOS, and Linux. Docker is quickly shipping, testing, and deploying code. So that it reduces your delay between writing code and running it in production. You can create self-contained environments known as containers. That can run consistently on different platforms.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Docker-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/docker-tutorial/?ref=shm"
+    ],
+    [
+        "Kubernetes Tutorial",
+        "Kubernetes is a tool that helps us to run and manage applications in containers. It was developed by Google Lab in 2014, and it is also known as k8s. It is an open-source container orchestration platform that automates the deployment, management, and scaling of container-based applications in different kinds of environments like physical, virtual, and cloud-native computing foundations. Containers are isolated from each other so that multiple containers can run on the same machine without interrupting anyone else. It allows us to deploy and manage container-based applications across a Kubernetes cluster of machines.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152907/Kubernetes-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=shm"
+    ],
+    [
+        "Amazon Web Services (AWS) Tutorial",
+        "This AWS tutorial is designed for beginners and professionals to learn AWS\u2019s basic and advanced concepts. Learn about the various topics of AWS such as introduction, history of AWS, global infrastructure, features of AWS, IAM, storage services, database services, application Services, etc., and other AWS products such as S3, EC2, Lambda, and more. By the end of this tutorial, readers will have a basic understanding of what AWS is and how it can be used to support their computing needs.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221221151711/AWS-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/aws-tutorial/?ref=shm"
+    ],
+    [
+        "Microsoft Azure Tutorial",
+        "Designed by Microsoft in 2010, Microsoft Azure is one of the widely used cloud computing platforms. Azure provides a wide variety of services such as cloud storage, compute services, network services, cognitive services, databases, analytics, and IoT. It makes building, deploying, and managing applications very easy. All the Microsoft Azure fundamentals are also described for a better understanding of readers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Azure-tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/microsoft-azure/?ref=shm"
+    ],
+    [
+        "Google Cloud Platform Tutorial",
+        "Google Cloud Platform is a set of cloud computing services provided by Google that allows you to store, manage, and analyze data. It is also used for developing, deploying, and scaling applications on Google\u2019s environment. It was announced as the leading cloud platform in Gartner\u2019s IaaS Magic Quadrant in 2018. Likewise, it provides tools for developers to build and deploy applications in a secure and reliable manner, with access to advanced security features. Services of Google Cloud Platform can be accessed by developers, cloud administrators, and other enterprise IT professionals through the public internet or through a dedicated network connection.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152905/GCP-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=shm"
+    ],
+    [
+        "Docker Cheat Sheet : Complete Guide (2024)",
+        "Docker is a very popular tool introduced to make it easier for developers to create, deploy, and run applications using containers. A container is a utility provided by Docker to package and run an application in a loosely isolated environment. Containers are lightweight and contain everything needed to run an application, such as libraries and other dependencies packed by the developer during the application\u2019s packaging process. This assures developers that their application can be run on any other machine. Here, we\u2019re going to provide you with an ultimate Docker Cheat Sheet that will help you to learn Docker Commands easily.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230613115937/Docker-Cheatsheet.webp"
+        ],
+        "https://www.geeksforgeeks.org/docker-cheat-sheet/?ref=shm"
+    ],
+    [
+        "Kubectl Command Cheat Sheet",
+        "If you are inspired to become a DevOps (Devlopment+Operations)\u2019s Engineer and start your journey as a beginner, or if you\u2019re a professional looking to refresh your DevOps knowledge or transition into DevOps, or even if you\u2019re a learning geek seeking to expand your knowledge base, then you landed to the right place. Nowadays, Kubernetes (sometimes shortened to K8s with the 8 standing for the number of letters between the \u201cK\u201d and the \u201cs\u201d ) is a trending technology in the field of DevOps, and having a good understanding of it is crucial.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230615163518/Kubernetes-Cheatsheet-(3).webp"
+        ],
+        "https://www.geeksforgeeks.org/kubectl-cheatsheet/?ref=shm"
+    ],
+    [
+        "AWS Interview Questions",
+        "AWS, which stands for Amazon Web Services, is a cloud service provider that helps in providing the services of various fields of domains through the internet with the principle of \u201cPay as you use\u201d. AWS was started in 2006 with 3 types of services such as storage, computing, and messaging. After, it enhanced its network by providing all the required services based on the market trends.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20240117114222/Banner-for-AWS-INTERVIEW-QUESTIONS.png"
+        ],
+        "https://www.geeksforgeeks.org/aws-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50+ Docker Interview Questions & Answers (2024)",
+        "Dockers is a software providing platform as a service ( PaaS ) helping to host the container through docker-engine behind the background. It isolates the containers providing a separate network namespace. It bundles all the dependencies with required software, libraries, and configuration files with bootable software provided as a docker image. Docker launches the containers with the help of these images. It allows containers to communicate with each other in well-defined channels.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230109130229/Docker-vs-VM.png"
+        ],
+        "https://www.geeksforgeeks.org/docker-interview-questions/?ref=shm"
+    ],
+    [
+        "Ansible Interview Questions",
+        "Ansible is a configuration management tool and an open-source product from Redhat company. Before moving into the details of Ansible, let\u2019s explore the evolution of the Software Development Life Cycle (SDLC). In the past, IT and Linux administrators manually updated software with the latest versions and configured updates, causing significant delays in bringing new ideas or features to the public. This delay affected server performance and made business growth difficult. The demand for an agile nature led to the rapid rise of the DevOps culture, aiming to accelerate the time-to-market for new services or features and stay ahead of competitors.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231228142551/Ansible-Architecture.png"
+        ],
+        "https://www.geeksforgeeks.org/ansible-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50 Jenkins Interview Questions & Answer",
+        "Jenkins is a Java-based open-source automation platform with plugins designed for continuous integration. It is used to continually create and test software projects. If you are even slightly aware of Jenkins, then you must know that continuous integration is one of the most important parts of DevOps and the jobs in this field are high in demand.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230929215914/Screenshot-from-2023-09-29-21-57-46.png"
+        ],
+        "https://www.geeksforgeeks.org/jenkins-interview-questions/?ref=shm"
+    ],
+    [
+        "DevOps Lifecycle",
+        "DevOps is a practice that enables a single team to handle the whole application lifecycle, including development, testing, release, deployment, operation, display, and planning. It is a mix of the terms \u201cDev\u201d (for development) and \u201cOps\u201d (for operations). We can speed up the delivery of applications and services by a business with the aid of DevOps. Amazon, Netflix, and other businesses have all effectively embraced DevOps to improve their customer experience.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162703/DevOps-lifecycle.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162747/Code-developing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084631/DevOps-Flow-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153805/continuous-testing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153622/continuous-delivery-1.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153703/continuous-delivery-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084727/DevOps-Flow-1.webp"
+        ],
+        "https://www.geeksforgeeks.org/lifecycle-of-devops/?ref=shm"
+    ],
+    [
+        "Complete DevOps Roadmap \u2013 Beginner to Advanced",
+        "DevOps is considered a set of practices that combines the abilities of Software Development i.e Dev and IT Operations i.e Ops together, which results in delivering top-notch quality software fastly and more efficiently. Its focus is to encourage communication, collaboration, and integration between the software development team and IT operations to maintain the software development lifecycle.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230416201559/DevOps-Roadmap.webp"
+        ],
+        "https://www.geeksforgeeks.org/devops-roadmap/?ref=shm"
+    ],
+    [
+        "Docker Tutorial",
+        "Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service. Docker was released in 2013. It is open-source and available for different platforms like Windows, macOS, and Linux. Docker is quickly shipping, testing, and deploying code. So that it reduces your delay between writing code and running it in production. You can create self-contained environments known as containers. That can run consistently on different platforms.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Docker-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/docker-tutorial/?ref=shm"
+    ],
+    [
+        "Kubernetes Tutorial",
+        "Kubernetes is a tool that helps us to run and manage applications in containers. It was developed by Google Lab in 2014, and it is also known as k8s. It is an open-source container orchestration platform that automates the deployment, management, and scaling of container-based applications in different kinds of environments like physical, virtual, and cloud-native computing foundations. Containers are isolated from each other so that multiple containers can run on the same machine without interrupting anyone else. It allows us to deploy and manage container-based applications across a Kubernetes cluster of machines.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152907/Kubernetes-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=shm"
+    ],
+    [
+        "Amazon Web Services (AWS) Tutorial",
+        "This AWS tutorial is designed for beginners and professionals to learn AWS\u2019s basic and advanced concepts. Learn about the various topics of AWS such as introduction, history of AWS, global infrastructure, features of AWS, IAM, storage services, database services, application Services, etc., and other AWS products such as S3, EC2, Lambda, and more. By the end of this tutorial, readers will have a basic understanding of what AWS is and how it can be used to support their computing needs.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221221151711/AWS-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/aws-tutorial/?ref=shm"
+    ],
+    [
+        "Microsoft Azure Tutorial",
+        "Designed by Microsoft in 2010, Microsoft Azure is one of the widely used cloud computing platforms. Azure provides a wide variety of services such as cloud storage, compute services, network services, cognitive services, databases, analytics, and IoT. It makes building, deploying, and managing applications very easy. All the Microsoft Azure fundamentals are also described for a better understanding of readers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Azure-tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/microsoft-azure/?ref=shm"
+    ],
+    [
+        "Google Cloud Platform Tutorial",
+        "Google Cloud Platform is a set of cloud computing services provided by Google that allows you to store, manage, and analyze data. It is also used for developing, deploying, and scaling applications on Google\u2019s environment. It was announced as the leading cloud platform in Gartner\u2019s IaaS Magic Quadrant in 2018. Likewise, it provides tools for developers to build and deploy applications in a secure and reliable manner, with access to advanced security features. Services of Google Cloud Platform can be accessed by developers, cloud administrators, and other enterprise IT professionals through the public internet or through a dedicated network connection.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152905/GCP-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=shm"
+    ],
+    [
+        "Docker Cheat Sheet : Complete Guide (2024)",
+        "Docker is a very popular tool introduced to make it easier for developers to create, deploy, and run applications using containers. A container is a utility provided by Docker to package and run an application in a loosely isolated environment. Containers are lightweight and contain everything needed to run an application, such as libraries and other dependencies packed by the developer during the application\u2019s packaging process. This assures developers that their application can be run on any other machine. Here, we\u2019re going to provide you with an ultimate Docker Cheat Sheet that will help you to learn Docker Commands easily.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230613115937/Docker-Cheatsheet.webp"
+        ],
+        "https://www.geeksforgeeks.org/docker-cheat-sheet/?ref=shm"
+    ],
+    [
+        "Kubectl Command Cheat Sheet",
+        "If you are inspired to become a DevOps (Devlopment+Operations)\u2019s Engineer and start your journey as a beginner, or if you\u2019re a professional looking to refresh your DevOps knowledge or transition into DevOps, or even if you\u2019re a learning geek seeking to expand your knowledge base, then you landed to the right place. Nowadays, Kubernetes (sometimes shortened to K8s with the 8 standing for the number of letters between the \u201cK\u201d and the \u201cs\u201d ) is a trending technology in the field of DevOps, and having a good understanding of it is crucial.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230615163518/Kubernetes-Cheatsheet-(3).webp"
+        ],
+        "https://www.geeksforgeeks.org/kubectl-cheatsheet/?ref=shm"
+    ],
+    [
+        "AWS Interview Questions",
+        "AWS, which stands for Amazon Web Services, is a cloud service provider that helps in providing the services of various fields of domains through the internet with the principle of \u201cPay as you use\u201d. AWS was started in 2006 with 3 types of services such as storage, computing, and messaging. After, it enhanced its network by providing all the required services based on the market trends.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20240117114222/Banner-for-AWS-INTERVIEW-QUESTIONS.png"
+        ],
+        "https://www.geeksforgeeks.org/aws-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50+ Docker Interview Questions & Answers (2024)",
+        "Dockers is a software providing platform as a service ( PaaS ) helping to host the container through docker-engine behind the background. It isolates the containers providing a separate network namespace. It bundles all the dependencies with required software, libraries, and configuration files with bootable software provided as a docker image. Docker launches the containers with the help of these images. It allows containers to communicate with each other in well-defined channels.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230109130229/Docker-vs-VM.png"
+        ],
+        "https://www.geeksforgeeks.org/docker-interview-questions/?ref=shm"
+    ],
+    [
+        "Ansible Interview Questions",
+        "Ansible is a configuration management tool and an open-source product from Redhat company. Before moving into the details of Ansible, let\u2019s explore the evolution of the Software Development Life Cycle (SDLC). In the past, IT and Linux administrators manually updated software with the latest versions and configured updates, causing significant delays in bringing new ideas or features to the public. This delay affected server performance and made business growth difficult. The demand for an agile nature led to the rapid rise of the DevOps culture, aiming to accelerate the time-to-market for new services or features and stay ahead of competitors.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231228142551/Ansible-Architecture.png"
+        ],
+        "https://www.geeksforgeeks.org/ansible-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50 Jenkins Interview Questions & Answer",
+        "Jenkins is a Java-based open-source automation platform with plugins designed for continuous integration. It is used to continually create and test software projects. If you are even slightly aware of Jenkins, then you must know that continuous integration is one of the most important parts of DevOps and the jobs in this field are high in demand.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230929215914/Screenshot-from-2023-09-29-21-57-46.png"
+        ],
+        "https://www.geeksforgeeks.org/jenkins-interview-questions/?ref=shm"
+    ],
+    [
+        "DevOps Lifecycle",
+        "DevOps is a practice that enables a single team to handle the whole application lifecycle, including development, testing, release, deployment, operation, display, and planning. It is a mix of the terms \u201cDev\u201d (for development) and \u201cOps\u201d (for operations). We can speed up the delivery of applications and services by a business with the aid of DevOps. Amazon, Netflix, and other businesses have all effectively embraced DevOps to improve their customer experience.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162703/DevOps-lifecycle.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162747/Code-developing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084631/DevOps-Flow-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153805/continuous-testing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153622/continuous-delivery-1.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153703/continuous-delivery-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084727/DevOps-Flow-1.webp"
+        ],
+        "https://www.geeksforgeeks.org/lifecycle-of-devops/?ref=shm"
+    ],
+    [
+        "Complete DevOps Roadmap \u2013 Beginner to Advanced",
+        "DevOps is considered a set of practices that combines the abilities of Software Development i.e Dev and IT Operations i.e Ops together, which results in delivering top-notch quality software fastly and more efficiently. Its focus is to encourage communication, collaboration, and integration between the software development team and IT operations to maintain the software development lifecycle.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230416201559/DevOps-Roadmap.webp"
+        ],
+        "https://www.geeksforgeeks.org/devops-roadmap/?ref=shm"
+    ],
+    [
+        "Docker Tutorial",
+        "Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service. Docker was released in 2013. It is open-source and available for different platforms like Windows, macOS, and Linux. Docker is quickly shipping, testing, and deploying code. So that it reduces your delay between writing code and running it in production. You can create self-contained environments known as containers. That can run consistently on different platforms.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Docker-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/docker-tutorial/?ref=shm"
+    ],
+    [
+        "Kubernetes Tutorial",
+        "Kubernetes is a tool that helps us to run and manage applications in containers. It was developed by Google Lab in 2014, and it is also known as k8s. It is an open-source container orchestration platform that automates the deployment, management, and scaling of container-based applications in different kinds of environments like physical, virtual, and cloud-native computing foundations. Containers are isolated from each other so that multiple containers can run on the same machine without interrupting anyone else. It allows us to deploy and manage container-based applications across a Kubernetes cluster of machines.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152907/Kubernetes-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=shm"
+    ],
+    [
+        "Amazon Web Services (AWS) Tutorial",
+        "This AWS tutorial is designed for beginners and professionals to learn AWS\u2019s basic and advanced concepts. Learn about the various topics of AWS such as introduction, history of AWS, global infrastructure, features of AWS, IAM, storage services, database services, application Services, etc., and other AWS products such as S3, EC2, Lambda, and more. By the end of this tutorial, readers will have a basic understanding of what AWS is and how it can be used to support their computing needs.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221221151711/AWS-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/aws-tutorial/?ref=shm"
+    ],
+    [
+        "Microsoft Azure Tutorial",
+        "Designed by Microsoft in 2010, Microsoft Azure is one of the widely used cloud computing platforms. Azure provides a wide variety of services such as cloud storage, compute services, network services, cognitive services, databases, analytics, and IoT. It makes building, deploying, and managing applications very easy. All the Microsoft Azure fundamentals are also described for a better understanding of readers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Azure-tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/microsoft-azure/?ref=shm"
+    ],
+    [
+        "Google Cloud Platform Tutorial",
+        "Google Cloud Platform is a set of cloud computing services provided by Google that allows you to store, manage, and analyze data. It is also used for developing, deploying, and scaling applications on Google\u2019s environment. It was announced as the leading cloud platform in Gartner\u2019s IaaS Magic Quadrant in 2018. Likewise, it provides tools for developers to build and deploy applications in a secure and reliable manner, with access to advanced security features. Services of Google Cloud Platform can be accessed by developers, cloud administrators, and other enterprise IT professionals through the public internet or through a dedicated network connection.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152905/GCP-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=shm"
+    ],
+    [
+        "Docker Cheat Sheet : Complete Guide (2024)",
+        "Docker is a very popular tool introduced to make it easier for developers to create, deploy, and run applications using containers. A container is a utility provided by Docker to package and run an application in a loosely isolated environment. Containers are lightweight and contain everything needed to run an application, such as libraries and other dependencies packed by the developer during the application\u2019s packaging process. This assures developers that their application can be run on any other machine. Here, we\u2019re going to provide you with an ultimate Docker Cheat Sheet that will help you to learn Docker Commands easily.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230613115937/Docker-Cheatsheet.webp"
+        ],
+        "https://www.geeksforgeeks.org/docker-cheat-sheet/?ref=shm"
+    ],
+    [
+        "Kubectl Command Cheat Sheet",
+        "If you are inspired to become a DevOps (Devlopment+Operations)\u2019s Engineer and start your journey as a beginner, or if you\u2019re a professional looking to refresh your DevOps knowledge or transition into DevOps, or even if you\u2019re a learning geek seeking to expand your knowledge base, then you landed to the right place. Nowadays, Kubernetes (sometimes shortened to K8s with the 8 standing for the number of letters between the \u201cK\u201d and the \u201cs\u201d ) is a trending technology in the field of DevOps, and having a good understanding of it is crucial.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230615163518/Kubernetes-Cheatsheet-(3).webp"
+        ],
+        "https://www.geeksforgeeks.org/kubectl-cheatsheet/?ref=shm"
+    ],
+    [
+        "AWS Interview Questions",
+        "AWS, which stands for Amazon Web Services, is a cloud service provider that helps in providing the services of various fields of domains through the internet with the principle of \u201cPay as you use\u201d. AWS was started in 2006 with 3 types of services such as storage, computing, and messaging. After, it enhanced its network by providing all the required services based on the market trends.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20240117114222/Banner-for-AWS-INTERVIEW-QUESTIONS.png"
+        ],
+        "https://www.geeksforgeeks.org/aws-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50+ Docker Interview Questions & Answers (2024)",
+        "Dockers is a software providing platform as a service ( PaaS ) helping to host the container through docker-engine behind the background. It isolates the containers providing a separate network namespace. It bundles all the dependencies with required software, libraries, and configuration files with bootable software provided as a docker image. Docker launches the containers with the help of these images. It allows containers to communicate with each other in well-defined channels.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230109130229/Docker-vs-VM.png"
+        ],
+        "https://www.geeksforgeeks.org/docker-interview-questions/?ref=shm"
+    ],
+    [
+        "Ansible Interview Questions",
+        "Ansible is a configuration management tool and an open-source product from Redhat company. Before moving into the details of Ansible, let\u2019s explore the evolution of the Software Development Life Cycle (SDLC). In the past, IT and Linux administrators manually updated software with the latest versions and configured updates, causing significant delays in bringing new ideas or features to the public. This delay affected server performance and made business growth difficult. The demand for an agile nature led to the rapid rise of the DevOps culture, aiming to accelerate the time-to-market for new services or features and stay ahead of competitors.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231228142551/Ansible-Architecture.png"
+        ],
+        "https://www.geeksforgeeks.org/ansible-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50 Jenkins Interview Questions & Answer",
+        "Jenkins is a Java-based open-source automation platform with plugins designed for continuous integration. It is used to continually create and test software projects. If you are even slightly aware of Jenkins, then you must know that continuous integration is one of the most important parts of DevOps and the jobs in this field are high in demand.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230929215914/Screenshot-from-2023-09-29-21-57-46.png"
+        ],
+        "https://www.geeksforgeeks.org/jenkins-interview-questions/?ref=shm"
+    ],
+    [
+        "HTML Cheat Sheet \u2013 A Basic Guide to HTML",
+        "HTML(HyperText Markup Language) is the most basic building block of all web pages. It provides structure to the content appearing on a website, such as images, text, or videos by creating a basic skeleton. HTML is still very useful today, the reason being no matter the framework or language we use to develop the web page, the output would be rendered in HTML. This article provides an in-depth HTML Cheat Sheet, a must-have for every web developer.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220727132406/HTML-cheatsheet.png"
+        ],
+        "https://www.geeksforgeeks.org/html-cheat-sheet-a-basic-guide-to-html/?ref=shm"
+    ],
+    [
+        "CSS Cheat Sheet \u2013 A Basic Guide to CSS",
+        "What is CSS?",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220428152156/CSS-Cheat-Sheet-4.jpg"
+        ],
+        "https://www.geeksforgeeks.org/css-cheat-sheet-a-basic-guide-to-css/?ref=shm"
+    ],
+    [
+        "JavaScript Cheat Sheet \u2013 A Basic Guide to JavaScript",
+        "JavaScript is a lightweight, open, and cross-platform programming language. It is omnipresent in modern development and is used by programmers across the world to create dynamic and interactive web content like applications and browsers. It is one of the core technologies of the World Wide Web, alongside HTML and CSS, and the powerhouse behind the rapidly evolving Internet by helping create beautiful and crazy-fast websites. This article provides an in-depth JavaScript Cheat Sheet, a must-have for every web developer.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220525104343/image-24.png"
+        ],
+        "https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript/?ref=shm"
+    ],
+    [
+        "Bootstrap Cheatsheet \u2013 A Basic Guide to Bootstrap",
+        "Bootstrap is a free, open-source, potent CSS framework and toolkit used to create modern and responsive websites and web applications. It is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. Nowadays, websites are perfect for all browsers and all sizes of screens.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220921180637/Bootstrap-Cheat-Sheet-2-1.jpg"
+        ],
+        "https://www.geeksforgeeks.org/bootstrap-cheatsheet-a-basic-guide-to-bootstrap/?ref=shm"
+    ],
+    [
+        "jQuery Cheat Sheet \u2013 A Basic Guide to jQuery",
+        "jQuery is an open-source, feature-rich JavaScript library, designed to simplify the HTML document traversal and manipulation, event handling, animation, and Ajax with an easy-to-use API that supports the multiple browsers. It makes the easy interaction between the HTML & CSS document, Document Object Model (DOM), and JavaScript. With the help of jQuery, the multiple lines of code can be wrapped into methods, which in turn, can be called with a single line of code to perform a particular task. This, in turn, jQuery makes it easier to use Javascript on the website, along with enhancing the overall performance of the website.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220610170949/Jquery-Cheat-sheet-banner-3.png"
+        ],
+        "https://www.geeksforgeeks.org/jquery-cheat-sheet-a-basic-guide-to-jquery/?ref=shm"
+    ],
+    [
+        "Angular Cheat Sheet \u2013 A Basic Guide to Angular",
+        "Angular is a client-side TypeScript-based, front-end web framework developed by the Angular Team at Google, that is mainly used to develop scalable single-page web applications(SPAs) for mobile & desktop. Angular is a great, reusable UI (User Interface) library for developers that helps in building attractive, steady, and utilitarian web pages and web applications. It is a continuously growing and expanding framework which provides better ways for developing web applications. It changes the static HTML to dynamic HTML. Its features like dynamic binding and dependency injection eliminate the need for code that we have to write otherwise. TypeScript is a Strict Super Set of JavaScript, which means anything that is implemented in JavaScript can be implemented using TypeScript.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220919122049/Angular-Cheat-Sheet.jpg"
+        ],
+        "https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/?ref=shm"
+    ],
+    [
+        "SDE SHEET \u2013 A Complete Guide for SDE Preparation",
+        "What is SDE Sheet?\nSDE Sheet is a curated list of the most popular questions among important topics, such as Data Structure and Algorithms (DSA), CS Subjects, Aptitude, etc, asked in the Software Development Engineer Interviews.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220228124519/Artboard-6-min.png"
+        ],
+        "https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/?ref=shm"
+    ],
+    [
+        "Facebook(Meta) SDE Sheet: Interview Questions and Answers",
+        "Facebook(Meta) is an online social media and social networking service owned by the American company Meta Platforms. It employs around 72000 people across the globe and is ranked 27th in the fortune 500 rankings. This sheet will\u00a0assist you to land a job at Facebook we have compiled all the interview questions and answers..",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220812195011/image-26.png"
+        ],
+        "https://www.geeksforgeeks.org/facebookmeta-sde-sheet-interview-questions-and-answers/?ref=shm"
+    ],
+    [
+        "Amazon SDE Sheet: Interview Questions and Answers",
+        "Amazon SDE sheet is the collection of the most important topics or the most frequently asked question in Amazon Software Development Engineer Interviews. Here we have collected all the interview questions and answers to land a job on Amazon",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20220621130516/AmazonSDESheet.jpg"
+        ],
+        "https://www.geeksforgeeks.org/amazon-sde-sheet-interview-questions-and-answers/?ref=shm"
+    ],
+    [
+        "Apple SDE Sheet: Interview Questions and Answers",
+        "Apple is one of the world\u2019s favorite tech brands, holding a tight spot as one of the tech Big Four companies. Apple products have found their way into seemingly every household. The company only hires the best of the best and looks for whip-smart people who will push the envelope when it comes to what personal technology can do. This sheet will\u00a0assist you to land a job at Apple, we have compiled all the interview questions and answers..",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220823175853/Apple-SDE-Sheet.jpg"
+        ],
+        "https://www.geeksforgeeks.org/apple-sde-sheet-interview-questions-and-answers/?ref=shm"
+    ],
+    [
+        "Netflix SDE Sheet: Interview Questions and Answers",
+        "Netflix, the top video streaming service in the world was founded in 1997 and started out by shipping DVDs to customers by mail. Now it consumes more than 15 percent of the world\u2019s internet bandwidth and has subscribers in more than 190 countries. This sheet will\u00a0assist you to land a job at Netflix, we have compiled all the interview questions and answers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220825133518/Netflix-SDE-Sheet.jpg"
+        ],
+        "https://www.geeksforgeeks.org/netflix-sde-sheet-interview-questions-and-answers/?ref=shm"
+    ],
+    [
+        "Google SDE Sheet: Interview Questions and Answers",
+        "Google is an American multinational technology company specializing in search engine technology, online advertising, cloud computing, computer software, quantum computing, e-commerce, and artificial intelligence. It is a dream of many people to work for Google. This sheet will\u00a0assist you to land a job at Google, we have compiled all the interview questions and answers..",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220810151609/Google-SDE-Sheet-1.jpg"
+        ],
+        "https://www.geeksforgeeks.org/google-sde-sheet-interview-questions-and-answers/?ref=shm"
+    ],
+    [
+        "Wipro SDE Sheet: Interview Questions and Answers",
+        "Wipro Coding Sheet is prepared to crack Wipro interviews. Wipro Limited is a leading technology, service, and consulting company that thrives on innovation. It has over 250,000 dedicated employees serving clients across 66 countries. This sheet will\u00a0assist you to land a job at Wipro, we have compiled all the interview questions and answers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220822153540/Wipro-coding-sheet.jpg"
+        ],
+        "https://www.geeksforgeeks.org/wipro-sde-sheet-interview-questions-and-answers/?ref=shm"
+    ],
+    [
+        "Infosys SDE Sheet: Interview Questions and Answers",
+        "A multinational information technology company based in India, Infosys Limited offers business consulting, IT, and outsourcing services. Founded in Pune and headquartered in Bangalore, Infosys is India\u2019s second-largest IT company. Many students dream work at Infosys. This sheet will\u00a0assist you to land a job at Infosys, we have compiled all the interview questions and answers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220816212733/infosys-coding-sheet.jpg"
+        ],
+        "https://www.geeksforgeeks.org/infosys-sde-sheet-interview-questions-and-answers/?ref=shm"
+    ],
+    [
+        "TCS SDE Sheet: Interview Questions and Answers",
+        "What is TCS NQT ?",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220420141429/TCS-NQT-Coding-Sheet-11.jpg"
+        ],
+        "https://www.geeksforgeeks.org/tcs-sde-sheet-interview-questions-and-answers/?ref=shm"
+    ],
+    [
+        "Cognizant SDE Sheet: Interview Questions and Answers",
+        "Cognizant is an American multinational information technology services and consulting company, headquartered in new jersey, US. It has broadly two units. The vertical units focus on specific industries. This sheet will\u00a0assist you to land a job at cognizant, we have compiled all the interview questions and answers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220817183411/Cognizant-Coding-Sheet.jpg"
+        ],
+        "https://www.geeksforgeeks.org/cognizant-sde-sheet-interview-questions-and-answers/?ref=shm"
+    ],
+    [
+        "HCL SDE Sheet: Interview Questions and Answers",
+        "HCL Technologies Ltd is one of the leading global IT services companies that helps global enterprises re-imagine and transform their businesses through Digital technology transformation. The company is primarily engaged in providing a range of software services business process outsourcing and infrastructure services. Here we have collected all the interview questions and answers to land a job on HCL.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220826181657/HCL-coding-sheet.jpg"
+        ],
+        "https://www.geeksforgeeks.org/hcl-sde-sheet-interview-questions-and-answers/?ref=shm"
+    ],
+    [
+        "Must Do Questions for Companies like TCS, CTS, HCL, IBM \u2026",
+        "As the placement season is back so are we to help you ace the interview. We have selected some most commonly asked and must do practice problems for you.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190701124736/General-Recruitment-Process1.png"
+        ],
+        "https://www.geeksforgeeks.org/must-do-questions-for-companies-like-tcs-cts-hcl-ibm/?ref=shm"
+    ],
+    [
+        "Must Do Coding Questions for Product Based Companies",
+        "As the placement season is back, GeeksforGeeks is here to help you crack the interview. We have selected some most commonly asked and MUST DO practice problems to crack Product-based Company Interviews.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210127175547/Must-Do-Coding-Questions-for-Product-Based-Companies.png"
+        ],
+        "https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=shm"
+    ],
+    [
+        "Must Do Coding Questions Company-wise",
+        "",
+        [],
+        "https://www.geeksforgeeks.org/must-coding-questions-company-wise/?ref=shm"
+    ],
+    [
+        "DSA Sheet by Love Babbar",
+        "Who is Love Babbar?",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220211142631/Love-Babbar-DSA-Sheet-450-Coding-Questions-min.png"
+        ],
+        "https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/?ref=shm"
+    ],
+    [
+        "DevOps Lifecycle",
+        "DevOps is a practice that enables a single team to handle the whole application lifecycle, including development, testing, release, deployment, operation, display, and planning. It is a mix of the terms \u201cDev\u201d (for development) and \u201cOps\u201d (for operations). We can speed up the delivery of applications and services by a business with the aid of DevOps. Amazon, Netflix, and other businesses have all effectively embraced DevOps to improve their customer experience.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162703/DevOps-lifecycle.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162747/Code-developing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084631/DevOps-Flow-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153805/continuous-testing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153622/continuous-delivery-1.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153703/continuous-delivery-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084727/DevOps-Flow-1.webp"
+        ],
+        "https://www.geeksforgeeks.org/lifecycle-of-devops/?ref=shm"
+    ],
+    [
+        "Complete DevOps Roadmap \u2013 Beginner to Advanced",
+        "DevOps is considered a set of practices that combines the abilities of Software Development i.e Dev and IT Operations i.e Ops together, which results in delivering top-notch quality software fastly and more efficiently. Its focus is to encourage communication, collaboration, and integration between the software development team and IT operations to maintain the software development lifecycle.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230416201559/DevOps-Roadmap.webp"
+        ],
+        "https://www.geeksforgeeks.org/devops-roadmap/?ref=shm"
+    ],
+    [
+        "Docker Tutorial",
+        "Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service. Docker was released in 2013. It is open-source and available for different platforms like Windows, macOS, and Linux. Docker is quickly shipping, testing, and deploying code. So that it reduces your delay between writing code and running it in production. You can create self-contained environments known as containers. That can run consistently on different platforms.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Docker-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/docker-tutorial/?ref=shm"
+    ],
+    [
+        "Kubernetes Tutorial",
+        "Kubernetes is a tool that helps us to run and manage applications in containers. It was developed by Google Lab in 2014, and it is also known as k8s. It is an open-source container orchestration platform that automates the deployment, management, and scaling of container-based applications in different kinds of environments like physical, virtual, and cloud-native computing foundations. Containers are isolated from each other so that multiple containers can run on the same machine without interrupting anyone else. It allows us to deploy and manage container-based applications across a Kubernetes cluster of machines.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152907/Kubernetes-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=shm"
+    ],
+    [
+        "Amazon Web Services (AWS) Tutorial",
+        "This AWS tutorial is designed for beginners and professionals to learn AWS\u2019s basic and advanced concepts. Learn about the various topics of AWS such as introduction, history of AWS, global infrastructure, features of AWS, IAM, storage services, database services, application Services, etc., and other AWS products such as S3, EC2, Lambda, and more. By the end of this tutorial, readers will have a basic understanding of what AWS is and how it can be used to support their computing needs.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221221151711/AWS-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/aws-tutorial/?ref=shm"
+    ],
+    [
+        "Microsoft Azure Tutorial",
+        "Designed by Microsoft in 2010, Microsoft Azure is one of the widely used cloud computing platforms. Azure provides a wide variety of services such as cloud storage, compute services, network services, cognitive services, databases, analytics, and IoT. It makes building, deploying, and managing applications very easy. All the Microsoft Azure fundamentals are also described for a better understanding of readers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Azure-tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/microsoft-azure/?ref=shm"
+    ],
+    [
+        "Google Cloud Platform Tutorial",
+        "Google Cloud Platform is a set of cloud computing services provided by Google that allows you to store, manage, and analyze data. It is also used for developing, deploying, and scaling applications on Google\u2019s environment. It was announced as the leading cloud platform in Gartner\u2019s IaaS Magic Quadrant in 2018. Likewise, it provides tools for developers to build and deploy applications in a secure and reliable manner, with access to advanced security features. Services of Google Cloud Platform can be accessed by developers, cloud administrators, and other enterprise IT professionals through the public internet or through a dedicated network connection.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152905/GCP-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=shm"
+    ],
+    [
+        "Docker Cheat Sheet : Complete Guide (2024)",
+        "Docker is a very popular tool introduced to make it easier for developers to create, deploy, and run applications using containers. A container is a utility provided by Docker to package and run an application in a loosely isolated environment. Containers are lightweight and contain everything needed to run an application, such as libraries and other dependencies packed by the developer during the application\u2019s packaging process. This assures developers that their application can be run on any other machine. Here, we\u2019re going to provide you with an ultimate Docker Cheat Sheet that will help you to learn Docker Commands easily.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230613115937/Docker-Cheatsheet.webp"
+        ],
+        "https://www.geeksforgeeks.org/docker-cheat-sheet/?ref=shm"
+    ],
+    [
+        "Kubectl Command Cheat Sheet",
+        "If you are inspired to become a DevOps (Devlopment+Operations)\u2019s Engineer and start your journey as a beginner, or if you\u2019re a professional looking to refresh your DevOps knowledge or transition into DevOps, or even if you\u2019re a learning geek seeking to expand your knowledge base, then you landed to the right place. Nowadays, Kubernetes (sometimes shortened to K8s with the 8 standing for the number of letters between the \u201cK\u201d and the \u201cs\u201d ) is a trending technology in the field of DevOps, and having a good understanding of it is crucial.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230615163518/Kubernetes-Cheatsheet-(3).webp"
+        ],
+        "https://www.geeksforgeeks.org/kubectl-cheatsheet/?ref=shm"
+    ],
+    [
+        "AWS Interview Questions",
+        "AWS, which stands for Amazon Web Services, is a cloud service provider that helps in providing the services of various fields of domains through the internet with the principle of \u201cPay as you use\u201d. AWS was started in 2006 with 3 types of services such as storage, computing, and messaging. After, it enhanced its network by providing all the required services based on the market trends.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20240117114222/Banner-for-AWS-INTERVIEW-QUESTIONS.png"
+        ],
+        "https://www.geeksforgeeks.org/aws-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50+ Docker Interview Questions & Answers (2024)",
+        "Dockers is a software providing platform as a service ( PaaS ) helping to host the container through docker-engine behind the background. It isolates the containers providing a separate network namespace. It bundles all the dependencies with required software, libraries, and configuration files with bootable software provided as a docker image. Docker launches the containers with the help of these images. It allows containers to communicate with each other in well-defined channels.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230109130229/Docker-vs-VM.png"
+        ],
+        "https://www.geeksforgeeks.org/docker-interview-questions/?ref=shm"
+    ],
+    [
+        "Ansible Interview Questions",
+        "Ansible is a configuration management tool and an open-source product from Redhat company. Before moving into the details of Ansible, let\u2019s explore the evolution of the Software Development Life Cycle (SDLC). In the past, IT and Linux administrators manually updated software with the latest versions and configured updates, causing significant delays in bringing new ideas or features to the public. This delay affected server performance and made business growth difficult. The demand for an agile nature led to the rapid rise of the DevOps culture, aiming to accelerate the time-to-market for new services or features and stay ahead of competitors.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231228142551/Ansible-Architecture.png"
+        ],
+        "https://www.geeksforgeeks.org/ansible-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50 Jenkins Interview Questions & Answer",
+        "Jenkins is a Java-based open-source automation platform with plugins designed for continuous integration. It is used to continually create and test software projects. If you are even slightly aware of Jenkins, then you must know that continuous integration is one of the most important parts of DevOps and the jobs in this field are high in demand.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230929215914/Screenshot-from-2023-09-29-21-57-46.png"
+        ],
+        "https://www.geeksforgeeks.org/jenkins-interview-questions/?ref=shm"
+    ],
+    [
+        "What is Elastic Compute Cloud (EC2)?",
+        "EC2 stands for Elastic Compute Cloud. EC2 is an on-demand computing service on the AWS cloud platform. Under computing, it includes all the services a computing device can offer to you along with the flexibility of a virtual environment. It also allows the user to configure their instances as per their requirements i.e. allocate the RAM, ROM, and storage according to the need of the current task. Even the user can dismantle the virtual device once its task is completed and it is no more required. For providing, all these scalable resources AWS charges some bill amount at the end of every month, the bill amount is entirely dependent on your usage. EC2 allows you to rent virtual computers. The provision of servers on AWS Cloud is one of the easiest ways in EC2. EC2 has resizable capacity. EC2 offers security, reliability, high performance, and cost-effective infrastructure so as to meet the demanding business needs.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230802125628/AWS-EC2-Instance-types.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20210612133959/awsop1.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20210612142139/ec2.jpg",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20210612142401/Screenshot38.png"
+        ],
+        "https://www.geeksforgeeks.org/what-is-elastic-compute-cloud-ec2/?ref=shm"
+    ],
+    [
+        "Introduction to AWS Simple Storage Service (AWS S3)",
+        "AWS offers a wide range of storage services that can be configured depending on your project requirements and use cases. AWS comes up with different types of storage services for maintaining highly confidential data, frequently accessed data, and often accessed storage data. You can choose from various storage service types such as Object Storage as a Service(Amazon S3), File Storage as a Service (Amazon EFS), Block Storage as a Service (Amazon EBS), backups, and data migration options.",
+        [],
+        "https://www.geeksforgeeks.org/introduction-to-aws-simple-storage-service-aws-s3/?ref=shm"
+    ],
+    [
+        "Amazon VPC \u2013 Introduction to Amazon Virtual Private Cloud",
+        "Amazon VPC or Amazon Virtual Private Cloud is a service that allows its users to launch their virtual machines in a protected as well as isolated virtual environment defined by them. You have complete control over your VPC, from creation to customization and even deletion. It\u2019s applicable to organizations where the data is scattered and needs to be managed well. In other words, VPC enables us to select the virtual address of our private cloud and we can also define all the sub-constituents of the VPC like subnet, subnet mask, availability zone, etc on our own.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230414094756/aws-vpc-(1).png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231129124051/image-(4).webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231129124234/image-(3)-(2).png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231129123531/image.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231129123839/image-(1).webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231129123919/image-(2).png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230411125931/vpc.webp"
+        ],
+        "https://www.geeksforgeeks.org/amazon-vpc-introduction-to-amazon-virtual-cloud/?ref=shm"
+    ],
+    [
+        "Load Balancing using AWS",
+        "Load balancing is a critical component in ensuring the seamless functioning and high availability of web applications. As cloud computing continues to dominate the modern tech landscape, Amazon Web Services (AWS) has emerged as a leading cloud platform, offering an array of robust load-balancing services.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231031143142/load_balancing_in_aws_150.jpg"
+        ],
+        "https://www.geeksforgeeks.org/load-balancing-using-aws/?ref=shm"
+    ],
+    [
+        "Amazon Web Services \u2013 Auto Scaling Amazon EC2",
+        "Scalability refers to the capacity of a software solution to manage rising workloads. In simple terms, it is the ability of a system to readily add extra processing resources to handle the increased loads.\u00a0Scaling Amazon EC2 means you start with the resources you require at the time of starting your service and build your architecture to automatically scale in or out, in response to the changing demand. As a result, you only pay for the resources you really utilize. You don\u2019t have to be concerned about running out of computational power to satisfy your consumer\u2019s demand.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230828125811/Auto-Scaling---ec2.png",
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220328165138/Amazon-Web-Services-Scaling-Amazon-EC2.jpg"
+        ],
+        "https://www.geeksforgeeks.org/amazon-web-services-scaling-amazon-ec2/?ref=shm"
+    ],
+    [
+        "Amazon Web Services \u2013 Introduction to Amazon EKS",
+        "Amazon Elastic Kubernetes Service(EKS), is a fully managed service that you can use to run Kubernetes on Amazon Web Service. Kubernetes is open-source software that enables you to install and manage applications at a high scale.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220306133735/Group-42.jpg"
+        ],
+        "https://www.geeksforgeeks.org/amazon-web-services-introduction-to-amazon-eks/?ref=shm"
+    ],
+    [
+        "Introduction to Amazon Elastic Container Service (ECS)",
+        "Amazon Elastic Container Service (ECS), also known as Amazon EC2 Container Service, is a managed service that allows users to run Docker-based applications packaged as containers across a cluster of EC2 instances. Running simple containers on a single EC2 instance is simple but running these applications on a cluster of instances and managing the cluster is being administratively heavy process. With ECS, Fargate launch type, the load, and responsibility of managing the EC2 cluster is transferred over to the AWS and you can focus on application development rather than management of your cluster architecture.AWS \u00a0Fargate is the AWS service that allows ECS to run containers without having to manage and provision the resources required for running these applications.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230823112636/AWS-ECS.png"
+        ],
+        "https://www.geeksforgeeks.org/introduction-to-amazon-elastic-container-service-ecs/?ref=shm"
+    ],
+    [
+        "Introduction to AWS Fargate",
+        "AWS Fargate is a feature in container services in Amazon Web Services that can be used to run your containers without having to manage the server or the underlying architecture. It is a serverless computing engine for containers. \u00a0It is a pay-as-you-go model, i.e. pay for the resources you are using. Furthermore, it can be used with container services in AWS like ECS (Amazon Elastic Container Service) and EKS (Amazon Elastic Kubernetes Service). It is one of the most important features of serverless computing in AWS. Whenever you opt for Fargate, the infrastructure will be owned and managed by AWS(Amazon Web Services). It saves you time by automating features like patching, updating, and dealing with resources. The operating systems supported by Fargate are Amazon Linux 2, Windows Server 2019 Full, and Windows Server 2019 Core.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231207121955/AWS-Farget.webp"
+        ],
+        "https://www.geeksforgeeks.org/introduction-to-aws-fargate/?ref=shm"
+    ],
+    [
+        "Microsoft Azure Tutorial",
+        "Designed by Microsoft in 2010, Microsoft Azure is one of the widely used cloud computing platforms. Azure provides a wide variety of services such as cloud storage, compute services, network services, cognitive services, databases, analytics, and IoT. It makes building, deploying, and managing applications very easy. All the Microsoft Azure fundamentals are also described for a better understanding of readers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Azure-tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/microsoft-azure/?ref=shm"
+    ],
+    [
+        "Google Cloud Platform Tutorial",
+        "Google Cloud Platform is a set of cloud computing services provided by Google that allows you to store, manage, and analyze data. It is also used for developing, deploying, and scaling applications on Google\u2019s environment. It was announced as the leading cloud platform in Gartner\u2019s IaaS Magic Quadrant in 2018. Likewise, it provides tools for developers to build and deploy applications in a secure and reliable manner, with access to advanced security features. Services of Google Cloud Platform can be accessed by developers, cloud administrators, and other enterprise IT professionals through the public internet or through a dedicated network connection.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152905/GCP-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=shm"
+    ],
+    [
+        "Docker Tutorial",
+        "Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service. Docker was released in 2013. It is open-source and available for different platforms like Windows, macOS, and Linux. Docker is quickly shipping, testing, and deploying code. So that it reduces your delay between writing code and running it in production. You can create self-contained environments known as containers. That can run consistently on different platforms.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Docker-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/docker-tutorial/?ref=shm"
+    ],
+    [
+        "Kubernetes Tutorial",
+        "Kubernetes is a tool that helps us to run and manage applications in containers. It was developed by Google Lab in 2014, and it is also known as k8s. It is an open-source container orchestration platform that automates the deployment, management, and scaling of container-based applications in different kinds of environments like physical, virtual, and cloud-native computing foundations. Containers are isolated from each other so that multiple containers can run on the same machine without interrupting anyone else. It allows us to deploy and manage container-based applications across a Kubernetes cluster of machines.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152907/Kubernetes-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=shm"
+    ],
+    [
+        "Git Tutorial",
+        "Git is a widely used distributed version control and source code management system. It effectively tracks changes to source code, enabling effortless branching, merging, and versioning.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230501155143/Git-Tutorial.webp"
+        ],
+        "https://www.geeksforgeeks.org/git-tutorial/?ref=shm"
+    ],
+    [
+        "Docker Cheat Sheet : Complete Guide (2024)",
+        "Docker is a very popular tool introduced to make it easier for developers to create, deploy, and run applications using containers. A container is a utility provided by Docker to package and run an application in a loosely isolated environment. Containers are lightweight and contain everything needed to run an application, such as libraries and other dependencies packed by the developer during the application\u2019s packaging process. This assures developers that their application can be run on any other machine. Here, we\u2019re going to provide you with an ultimate Docker Cheat Sheet that will help you to learn Docker Commands easily.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230613115937/Docker-Cheatsheet.webp"
+        ],
+        "https://www.geeksforgeeks.org/docker-cheat-sheet/?ref=shm"
+    ],
+    [
+        "Kubectl Command Cheat Sheet",
+        "If you are inspired to become a DevOps (Devlopment+Operations)\u2019s Engineer and start your journey as a beginner, or if you\u2019re a professional looking to refresh your DevOps knowledge or transition into DevOps, or even if you\u2019re a learning geek seeking to expand your knowledge base, then you landed to the right place. Nowadays, Kubernetes (sometimes shortened to K8s with the 8 standing for the number of letters between the \u201cK\u201d and the \u201cs\u201d ) is a trending technology in the field of DevOps, and having a good understanding of it is crucial.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230615163518/Kubernetes-Cheatsheet-(3).webp"
+        ],
+        "https://www.geeksforgeeks.org/kubectl-cheatsheet/?ref=shm"
+    ],
+    [
+        "Ansible Interview Questions",
+        "Ansible is a configuration management tool and an open-source product from Redhat company. Before moving into the details of Ansible, let\u2019s explore the evolution of the Software Development Life Cycle (SDLC). In the past, IT and Linux administrators manually updated software with the latest versions and configured updates, causing significant delays in bringing new ideas or features to the public. This delay affected server performance and made business growth difficult. The demand for an agile nature led to the rapid rise of the DevOps culture, aiming to accelerate the time-to-market for new services or features and stay ahead of competitors.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231228142551/Ansible-Architecture.png"
+        ],
+        "https://www.geeksforgeeks.org/ansible-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50+ Docker Interview Questions & Answers (2024)",
+        "Dockers is a software providing platform as a service ( PaaS ) helping to host the container through docker-engine behind the background. It isolates the containers providing a separate network namespace. It bundles all the dependencies with required software, libraries, and configuration files with bootable software provided as a docker image. Docker launches the containers with the help of these images. It allows containers to communicate with each other in well-defined channels.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230109130229/Docker-vs-VM.png"
+        ],
+        "https://www.geeksforgeeks.org/docker-interview-questions/?ref=shm"
+    ],
+    [
+        "AWS Interview Questions",
+        "AWS, which stands for Amazon Web Services, is a cloud service provider that helps in providing the services of various fields of domains through the internet with the principle of \u201cPay as you use\u201d. AWS was started in 2006 with 3 types of services such as storage, computing, and messaging. After, it enhanced its network by providing all the required services based on the market trends.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20240117114222/Banner-for-AWS-INTERVIEW-QUESTIONS.png"
+        ],
+        "https://www.geeksforgeeks.org/aws-interview-questions/?ref=shm"
+    ],
+    [
+        "No article tag found.",
+        "",
+        [],
+        "https://www.geeksforgeeks.org/trending/?ref=shm"
+    ],
+    [
+        "Learn Data Structures and Algorithms | DSA Tutorial",
+        "Learn more about DSA in this Self Paced Course",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230807133054/Data-structure-algorithm.png",
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/mypic.png",
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230726162247/Array-data-structure.png",
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230726162404/String-Data-Structure.png",
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230726162542/Linked-List-Data-Structure.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/matrix-9.png",
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230726165552/Stack-Data-Structure.png",
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230726165642/Queue-Data-structure1.png",
+            "https://www.geeksforgeeks.org/wp-content/uploads/MinHeapAndMaxHeap.png",
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220701174812/Hashing.jpg",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221124153129/Treedatastructure.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20200630111809/graph18.jpg",
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230726172607/Sorting-Algorithms.png",
+            "https://www.geeksforgeeks.org/wp-content/uploads/Fractional-Knapsackexample-min-768x384.png",
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/Recursive-Functions-in-c.png",
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/Dynamic-Programming-1-1024x512.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20220809155713/image.png"
+        ],
+        "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm"
+    ],
+    [
+        "Web Technology",
+        "Web Technology refers to the various tools and techniques that are utilized in the process of communication between different types of devices over the Internet. A web browser is used to access web pages. Web browsers can be defined as programs that display text, data, pictures, animation, and video on the Internet. Hyperlinked resources on the World Wide Web can be accessed using software interfaces provided by Web browsers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210309162115/Backend-design-roadmap.jpeg"
+        ],
+        "https://www.geeksforgeeks.org/web-technology/?ref=shm"
+    ],
+    null,
+    null,
+    [
+        "No article tag found.",
+        "",
+        [],
+        "https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions"
+    ],
+    [
+        "Programming Language Python Tutorial",
+        "This Programming Language Python Tutorial is very well suited for beginners and also for experienced programmers. This specially designed free Python tutorial will help you learn Python programming most efficiently, with all topics from basics to advanced (like Web-scraping, Django, Learning, etc.) with examples.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20240304152903/python-tutorial-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20191023173512/Python-data-structure.jpg"
+        ],
+        "https://www.geeksforgeeks.org/python-programming-language/?ref=shm"
+    ],
+    [
+        "Machine Learning Tutorial",
+        "",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230318225814/ML-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/machine-learning/?ref=shm"
+    ],
+    [
+        "JavaScript Tutorial",
+        "JavaScript is the most popular scripting language for the Web. It is easy to learn, lightweight, cross-platform, single-threaded, and interpreted compiled language. It is widely used for web development, both on the client side and server side. As a scripting language, it plays an important role in web browsers, allowing real-time modification of web page content and enhancing user experience.",
+        [
+            "https://www.geeksforgeeks.org/wp-content/uploads/javascript.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231108161540/JavaScript-Libraries-and-Frameworks.webp"
+        ],
+        "https://www.geeksforgeeks.org/javascript/?ref=shm"
+    ],
+    [
+        "System Design Tutorial",
+        "System Design is defined as a process of creating an architecture for different components, interfaces, and modules of the system and providing corresponding data helpful in implementing such elements in systems.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210713211702/System-Design-Tutorial.png"
+        ],
+        "https://www.geeksforgeeks.org/system-design-tutorial/?ref=shm"
+    ],
+    [
+        "Django Tutorial | Learn Django Framework",
+        "Django is a Python-based web framework that allows you to create efficient web applications quickly. It is also called batteries included framework because Django provides built-in features for everything including Django Admin Interface, default database \u2013 SQLlite3, etc.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200221235734/Django-tutorial-learn-.png"
+        ],
+        "https://www.geeksforgeeks.org/django-tutorial/?ref=shm"
+    ],
+    [
+        "DevOps Tutorial",
+        "DevOps Tutorial",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230410112114/DevOps.png"
+        ],
+        "https://www.geeksforgeeks.org/devops-tutorial/?ref=shm"
+    ],
+    [
+        "Java Tutorial",
+        "This Java Tutorial is designed for beginners as well as experienced professionals. Whether you\u2019re looking to learn the basics of Java or its advanced concepts, this free Java tutorial is the perfect resource for you.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305131111/Java-programming.png"
+        ],
+        "https://www.geeksforgeeks.org/java/?ref=shm"
+    ],
+    [
+        "C Programming Language Tutorial",
+        "In this C Tutorial, you\u2019ll learn all C programming basic to advanced concepts like variables, arrays, pointers, strings, loops, etc. This C Programming Tutorial is designed for both beginners as well as experienced professionals, who\u2019re looking to learn and enhance their knowledge of the C programming language.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230506112814/C-Programming-Language.png"
+        ],
+        "https://www.geeksforgeeks.org/c-programming-language/?ref=shm"
+    ],
+    [
+        "C++ Programming Language",
+        "C++ is the most used and most popular programming language developed by Bjarne Stroustrup. C++ is a high-level and object-oriented programming language. This language allows developers to write clean and efficient code for large applications and software development, game development, and operating system programming. It is an expansion of the C programming language to include Object Oriented Programming(OOPs) and is used to develop programs for computers. This C++ Tutorial will cover all the basic to advanced topics of C++ like C++ basics, C++ functions, C++ classes, OOPs and STL concepts.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230703144619/CPP-Language.png"
+        ],
+        "https://www.geeksforgeeks.org/c-plus-plus/?ref=shm"
+    ],
+    [
+        "No article tag found.",
+        "",
+        [],
+        "https://www.geeksforgeeks.org/learn-reactjs/?ref=shm"
+    ],
+    [
+        "NodeJS Tutorial",
+        "NodeJS\u00a0or Node.js is one of the powerful open-source and cross-platform runtime environment built on Chrome\u2019s V8 JavaScript engine for executing JavaScript code outside of a browser. It provides an event-driven, non-blocking (asynchronous) I/O and cross-platform runtime environment for building highly scalable server-side applications using JavaScript.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230331172641/NodeJS-copy.webp"
+        ],
+        "https://www.geeksforgeeks.org/nodejs/?ref=shm"
+    ],
+    [
+        "Web Design Tutorial",
+        "This\u00a0Web Design Tutorial\u00a0is a Complete Guide for Beginners who want to learn Web Design from basics. Here, we cover everything from\u00a0Web designing fundamentals\u00a0such as\u00a0the Importance of UI/UX Design\u00a0and their Principles, Preloader in Websites, Web Graphics and Topography, etc. to\u00a0Advanced Web Design topics\u00a0such as the Role of 3D Graphics in UI/UX Design, Role of Psychology in UX Design, Purpose of Wireframing in Web Design Process and more.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231017114110/WEB-DESIGN-copy.webp"
+        ],
+        "https://www.geeksforgeeks.org/web-design/?ref=shm"
+    ],
+    [
+        "Web Browser \u2013 A Complete Overview",
+        "Web Browser is an application software to interact with the World Wide Web. It acts as a User Interface to browse files online. It is basically a client program to render HTML on the client side by making HTML requests. It supports various internet protocols to fetch files and email from the internet. Let us learn more about the world of Web Browsers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230915140340/web-browsers-copy.webp"
+        ],
+        "https://www.geeksforgeeks.org/web-browser-a-complete-overview/?ref=shm"
+    ],
+    null,
+    [
+        "Aptitude Questions and Answers",
+        "Aptitude questions can be challenging, but with the right preparation and practice, you can tackle them with ease. Our comprehensive guide to aptitude questions and answers covers all the essential topics of Aptitude, including Quantitative Aptitude, Logical Reasoning, and Verbal Ability. Whether you\u2019re a student preparing for an examination or looking for a job to improve your problem-solving skills. With our step-by-step guide and sample questions, you will gain the confidence to tackle aptitude questions in interviews and competitive exams with ease.",
+        [],
+        "https://www.geeksforgeeks.org/aptitude-questions-and-answers/?ref=shm"
+    ],
+    [
+        "Puzzles",
+        "A puzzle is a game, problem, or piece of information about any facts, clues, etc., that tests a person\u2019s ingenuity or knowledge. A person is required to put pieces or the given information together in a logical way to arrive at the answer.",
+        [],
+        "https://www.geeksforgeeks.org/puzzles/?ref=shm"
+    ],
+    [
+        "Computer Science Projects",
+        "Computer science is a popular topic of study today, with numerous applications spanning a wide range. Final-year students frequently find it difficult to select the appropriate computer science project.\nOn the final day of graduation, projects are the only thing that matters. Any IT-related industry where projects have a substantial impact can be chosen for a job or further education. Project work indicates knowledge depth as well as some soft skills like creativity and problem-solving. Your interview prospects will also improve as a result of your final year projects. As a result, in their last year of graduation, students are required to complete a project.",
+        [],
+        "https://www.geeksforgeeks.org/computer-science-projects/?ref=shm"
+    ],
+    [
+        "DevOps Lifecycle",
+        "DevOps is a practice that enables a single team to handle the whole application lifecycle, including development, testing, release, deployment, operation, display, and planning. It is a mix of the terms \u201cDev\u201d (for development) and \u201cOps\u201d (for operations). We can speed up the delivery of applications and services by a business with the aid of DevOps. Amazon, Netflix, and other businesses have all effectively embraced DevOps to improve their customer experience.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162703/DevOps-lifecycle.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162747/Code-developing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084631/DevOps-Flow-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153805/continuous-testing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153622/continuous-delivery-1.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153703/continuous-delivery-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084727/DevOps-Flow-1.webp"
+        ],
+        "https://www.geeksforgeeks.org/lifecycle-of-devops/?ref=shm"
+    ],
+    [
+        "Complete DevOps Roadmap \u2013 Beginner to Advanced",
+        "DevOps is considered a set of practices that combines the abilities of Software Development i.e Dev and IT Operations i.e Ops together, which results in delivering top-notch quality software fastly and more efficiently. Its focus is to encourage communication, collaboration, and integration between the software development team and IT operations to maintain the software development lifecycle.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230416201559/DevOps-Roadmap.webp"
+        ],
+        "https://www.geeksforgeeks.org/devops-roadmap/?ref=shm"
+    ],
+    [
+        "Docker Tutorial",
+        "Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service. Docker was released in 2013. It is open-source and available for different platforms like Windows, macOS, and Linux. Docker is quickly shipping, testing, and deploying code. So that it reduces your delay between writing code and running it in production. You can create self-contained environments known as containers. That can run consistently on different platforms.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Docker-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/docker-tutorial/?ref=shm"
+    ],
+    [
+        "Kubernetes Tutorial",
+        "Kubernetes is a tool that helps us to run and manage applications in containers. It was developed by Google Lab in 2014, and it is also known as k8s. It is an open-source container orchestration platform that automates the deployment, management, and scaling of container-based applications in different kinds of environments like physical, virtual, and cloud-native computing foundations. Containers are isolated from each other so that multiple containers can run on the same machine without interrupting anyone else. It allows us to deploy and manage container-based applications across a Kubernetes cluster of machines.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152907/Kubernetes-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=shm"
+    ],
+    [
+        "Amazon Web Services (AWS) Tutorial",
+        "This AWS tutorial is designed for beginners and professionals to learn AWS\u2019s basic and advanced concepts. Learn about the various topics of AWS such as introduction, history of AWS, global infrastructure, features of AWS, IAM, storage services, database services, application Services, etc., and other AWS products such as S3, EC2, Lambda, and more. By the end of this tutorial, readers will have a basic understanding of what AWS is and how it can be used to support their computing needs.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221221151711/AWS-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/aws-tutorial/?ref=shm"
+    ],
+    [
+        "Microsoft Azure Tutorial",
+        "Designed by Microsoft in 2010, Microsoft Azure is one of the widely used cloud computing platforms. Azure provides a wide variety of services such as cloud storage, compute services, network services, cognitive services, databases, analytics, and IoT. It makes building, deploying, and managing applications very easy. All the Microsoft Azure fundamentals are also described for a better understanding of readers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Azure-tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/microsoft-azure/?ref=shm"
+    ],
+    [
+        "Google Cloud Platform Tutorial",
+        "Google Cloud Platform is a set of cloud computing services provided by Google that allows you to store, manage, and analyze data. It is also used for developing, deploying, and scaling applications on Google\u2019s environment. It was announced as the leading cloud platform in Gartner\u2019s IaaS Magic Quadrant in 2018. Likewise, it provides tools for developers to build and deploy applications in a secure and reliable manner, with access to advanced security features. Services of Google Cloud Platform can be accessed by developers, cloud administrators, and other enterprise IT professionals through the public internet or through a dedicated network connection.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152905/GCP-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=shm"
+    ],
+    [
+        "Docker Cheat Sheet : Complete Guide (2024)",
+        "Docker is a very popular tool introduced to make it easier for developers to create, deploy, and run applications using containers. A container is a utility provided by Docker to package and run an application in a loosely isolated environment. Containers are lightweight and contain everything needed to run an application, such as libraries and other dependencies packed by the developer during the application\u2019s packaging process. This assures developers that their application can be run on any other machine. Here, we\u2019re going to provide you with an ultimate Docker Cheat Sheet that will help you to learn Docker Commands easily.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230613115937/Docker-Cheatsheet.webp"
+        ],
+        "https://www.geeksforgeeks.org/docker-cheat-sheet/?ref=shm"
+    ],
+    [
+        "Kubectl Command Cheat Sheet",
+        "If you are inspired to become a DevOps (Devlopment+Operations)\u2019s Engineer and start your journey as a beginner, or if you\u2019re a professional looking to refresh your DevOps knowledge or transition into DevOps, or even if you\u2019re a learning geek seeking to expand your knowledge base, then you landed to the right place. Nowadays, Kubernetes (sometimes shortened to K8s with the 8 standing for the number of letters between the \u201cK\u201d and the \u201cs\u201d ) is a trending technology in the field of DevOps, and having a good understanding of it is crucial.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230615163518/Kubernetes-Cheatsheet-(3).webp"
+        ],
+        "https://www.geeksforgeeks.org/kubectl-cheatsheet/?ref=shm"
+    ],
+    [
+        "AWS Interview Questions",
+        "AWS, which stands for Amazon Web Services, is a cloud service provider that helps in providing the services of various fields of domains through the internet with the principle of \u201cPay as you use\u201d. AWS was started in 2006 with 3 types of services such as storage, computing, and messaging. After, it enhanced its network by providing all the required services based on the market trends.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20240117114222/Banner-for-AWS-INTERVIEW-QUESTIONS.png"
+        ],
+        "https://www.geeksforgeeks.org/aws-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50+ Docker Interview Questions & Answers (2024)",
+        "Dockers is a software providing platform as a service ( PaaS ) helping to host the container through docker-engine behind the background. It isolates the containers providing a separate network namespace. It bundles all the dependencies with required software, libraries, and configuration files with bootable software provided as a docker image. Docker launches the containers with the help of these images. It allows containers to communicate with each other in well-defined channels.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230109130229/Docker-vs-VM.png"
+        ],
+        "https://www.geeksforgeeks.org/docker-interview-questions/?ref=shm"
+    ],
+    [
+        "Ansible Interview Questions",
+        "Ansible is a configuration management tool and an open-source product from Redhat company. Before moving into the details of Ansible, let\u2019s explore the evolution of the Software Development Life Cycle (SDLC). In the past, IT and Linux administrators manually updated software with the latest versions and configured updates, causing significant delays in bringing new ideas or features to the public. This delay affected server performance and made business growth difficult. The demand for an agile nature led to the rapid rise of the DevOps culture, aiming to accelerate the time-to-market for new services or features and stay ahead of competitors.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231228142551/Ansible-Architecture.png"
+        ],
+        "https://www.geeksforgeeks.org/ansible-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50 Jenkins Interview Questions & Answer",
+        "Jenkins is a Java-based open-source automation platform with plugins designed for continuous integration. It is used to continually create and test software projects. If you are even slightly aware of Jenkins, then you must know that continuous integration is one of the most important parts of DevOps and the jobs in this field are high in demand.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230929215914/Screenshot-from-2023-09-29-21-57-46.png"
+        ],
+        "https://www.geeksforgeeks.org/jenkins-interview-questions/?ref=shm"
+    ],
+    [
+        "DevOps Lifecycle",
+        "DevOps is a practice that enables a single team to handle the whole application lifecycle, including development, testing, release, deployment, operation, display, and planning. It is a mix of the terms \u201cDev\u201d (for development) and \u201cOps\u201d (for operations). We can speed up the delivery of applications and services by a business with the aid of DevOps. Amazon, Netflix, and other businesses have all effectively embraced DevOps to improve their customer experience.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162703/DevOps-lifecycle.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230412162747/Code-developing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084631/DevOps-Flow-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153805/continuous-testing.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153622/continuous-delivery-1.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230417153703/continuous-delivery-2.webp",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230413084727/DevOps-Flow-1.webp"
+        ],
+        "https://www.geeksforgeeks.org/lifecycle-of-devops/?ref=shm"
+    ],
+    [
+        "Complete DevOps Roadmap \u2013 Beginner to Advanced",
+        "DevOps is considered a set of practices that combines the abilities of Software Development i.e Dev and IT Operations i.e Ops together, which results in delivering top-notch quality software fastly and more efficiently. Its focus is to encourage communication, collaboration, and integration between the software development team and IT operations to maintain the software development lifecycle.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230416201559/DevOps-Roadmap.webp"
+        ],
+        "https://www.geeksforgeeks.org/devops-roadmap/?ref=shm"
+    ],
+    [
+        "Docker Tutorial",
+        "Docker is a powerful tool used for developing, packaging, and deploying applications efficiently. Docker is a container management service. Docker was released in 2013. It is open-source and available for different platforms like Windows, macOS, and Linux. Docker is quickly shipping, testing, and deploying code. So that it reduces your delay between writing code and running it in production. You can create self-contained environments known as containers. That can run consistently on different platforms.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Docker-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/docker-tutorial/?ref=shm"
+    ],
+    [
+        "Kubernetes Tutorial",
+        "Kubernetes is a tool that helps us to run and manage applications in containers. It was developed by Google Lab in 2014, and it is also known as k8s. It is an open-source container orchestration platform that automates the deployment, management, and scaling of container-based applications in different kinds of environments like physical, virtual, and cloud-native computing foundations. Containers are isolated from each other so that multiple containers can run on the same machine without interrupting anyone else. It allows us to deploy and manage container-based applications across a Kubernetes cluster of machines.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152907/Kubernetes-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=shm"
+    ],
+    [
+        "Amazon Web Services (AWS) Tutorial",
+        "This AWS tutorial is designed for beginners and professionals to learn AWS\u2019s basic and advanced concepts. Learn about the various topics of AWS such as introduction, history of AWS, global infrastructure, features of AWS, IAM, storage services, database services, application Services, etc., and other AWS products such as S3, EC2, Lambda, and more. By the end of this tutorial, readers will have a basic understanding of what AWS is and how it can be used to support their computing needs.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221221151711/AWS-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/aws-tutorial/?ref=shm"
+    ],
+    [
+        "Microsoft Azure Tutorial",
+        "Designed by Microsoft in 2010, Microsoft Azure is one of the widely used cloud computing platforms. Azure provides a wide variety of services such as cloud storage, compute services, network services, cognitive services, databases, analytics, and IoT. It makes building, deploying, and managing applications very easy. All the Microsoft Azure fundamentals are also described for a better understanding of readers.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152906/Azure-tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/microsoft-azure/?ref=shm"
+    ],
+    [
+        "Google Cloud Platform Tutorial",
+        "Google Cloud Platform is a set of cloud computing services provided by Google that allows you to store, manage, and analyze data. It is also used for developing, deploying, and scaling applications on Google\u2019s environment. It was announced as the leading cloud platform in Gartner\u2019s IaaS Magic Quadrant in 2018. Likewise, it provides tools for developers to build and deploy applications in a secure and reliable manner, with access to advanced security features. Services of Google Cloud Platform can be accessed by developers, cloud administrators, and other enterprise IT professionals through the public internet or through a dedicated network connection.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221222152905/GCP-Tutorial.jpg"
+        ],
+        "https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=shm"
+    ],
+    [
+        "Docker Cheat Sheet : Complete Guide (2024)",
+        "Docker is a very popular tool introduced to make it easier for developers to create, deploy, and run applications using containers. A container is a utility provided by Docker to package and run an application in a loosely isolated environment. Containers are lightweight and contain everything needed to run an application, such as libraries and other dependencies packed by the developer during the application\u2019s packaging process. This assures developers that their application can be run on any other machine. Here, we\u2019re going to provide you with an ultimate Docker Cheat Sheet that will help you to learn Docker Commands easily.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230613115937/Docker-Cheatsheet.webp"
+        ],
+        "https://www.geeksforgeeks.org/docker-cheat-sheet/?ref=shm"
+    ],
+    [
+        "Kubectl Command Cheat Sheet",
+        "If you are inspired to become a DevOps (Devlopment+Operations)\u2019s Engineer and start your journey as a beginner, or if you\u2019re a professional looking to refresh your DevOps knowledge or transition into DevOps, or even if you\u2019re a learning geek seeking to expand your knowledge base, then you landed to the right place. Nowadays, Kubernetes (sometimes shortened to K8s with the 8 standing for the number of letters between the \u201cK\u201d and the \u201cs\u201d ) is a trending technology in the field of DevOps, and having a good understanding of it is crucial.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230615163518/Kubernetes-Cheatsheet-(3).webp"
+        ],
+        "https://www.geeksforgeeks.org/kubectl-cheatsheet/?ref=shm"
+    ],
+    [
+        "AWS Interview Questions",
+        "AWS, which stands for Amazon Web Services, is a cloud service provider that helps in providing the services of various fields of domains through the internet with the principle of \u201cPay as you use\u201d. AWS was started in 2006 with 3 types of services such as storage, computing, and messaging. After, it enhanced its network by providing all the required services based on the market trends.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20240117114222/Banner-for-AWS-INTERVIEW-QUESTIONS.png"
+        ],
+        "https://www.geeksforgeeks.org/aws-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50+ Docker Interview Questions & Answers (2024)",
+        "Dockers is a software providing platform as a service ( PaaS ) helping to host the container through docker-engine behind the background. It isolates the containers providing a separate network namespace. It bundles all the dependencies with required software, libraries, and configuration files with bootable software provided as a docker image. Docker launches the containers with the help of these images. It allows containers to communicate with each other in well-defined channels.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20221205115118/Architecture-of-Docker.png",
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230109130229/Docker-vs-VM.png"
+        ],
+        "https://www.geeksforgeeks.org/docker-interview-questions/?ref=shm"
+    ],
+    [
+        "Ansible Interview Questions",
+        "Ansible is a configuration management tool and an open-source product from Redhat company. Before moving into the details of Ansible, let\u2019s explore the evolution of the Software Development Life Cycle (SDLC). In the past, IT and Linux administrators manually updated software with the latest versions and configured updates, causing significant delays in bringing new ideas or features to the public. This delay affected server performance and made business growth difficult. The demand for an agile nature led to the rapid rise of the DevOps culture, aiming to accelerate the time-to-market for new services or features and stay ahead of competitors.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20231228142551/Ansible-Architecture.png"
+        ],
+        "https://www.geeksforgeeks.org/ansible-interview-questions/?ref=shm"
+    ],
+    [
+        "Top 50 Jenkins Interview Questions & Answer",
+        "Jenkins is a Java-based open-source automation platform with plugins designed for continuous integration. It is used to continually create and test software projects. If you are even slightly aware of Jenkins, then you must know that continuous integration is one of the most important parts of DevOps and the jobs in this field are high in demand.",
+        [
+            "https://media.geeksforgeeks.org/wp-content/uploads/20230929215914/Screenshot-from-2023-09-29-21-57-46.png"
+        ],
+        "https://www.geeksforgeeks.org/jenkins-interview-questions/?ref=shm"
+    ]
+]
